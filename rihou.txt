@@ -1,4 +1,18 @@
 rihou,#genre#
+05-17⬇️英超第37轮联赛⬇️⚽📡,http://rihou.cc:555/tv/t
+19:30曼联🆚诺定汉,http://rihou.cc:555/tv/v
+粤🔊大D-旁述,http://rihou.cc:555/tv/17英超大D述
+粤🔊锐探旁述,http://rihou.cc:555/tv/17英超锐探述
+粤🔊丁伟杰述,http://rihou.cc:555/tv/17英超丁伟杰
+粤🔊小肥旁述,http://rihou.cc:555/tv/17英超小肥述
+粤🔊牛哥旁述,http://rihou.cc:555/tv/17英超牛哥述
+粤🔊威利旁述,http://rihou.cc:555/tv/17英超威利述
+粤🔊大超旁述,http://rihou.cc:555/tv/17英超大超述
+粤🔊速仔旁述,http://rihou.cc:555/tv/17英超速仔述
+国🔊绿色评述,http://rihou.cc:555/tv/17英超绿色述
+国🔊森林评述,http://rihou.cc:555/tv/17英超森林述
+国🔊咪咕评述,http://rihou.cc:555/tv/17英超咪评述
+国🔊高老师述,http://rihou.cc:555/tv/17英超高老师
 CCTV-01咪咕,http://rihou.cc:555/tv/[mg]CCTV-01
 CCTV-02咪咕,http://rihou.cc:555/tv/[mg]CCTV-02
 CCTV-03咪咕,http://rihou.cc:555/tv/[mg]CCTV-03
@@ -198,7 +212,6 @@ CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
 广东珠江欣赏,http://rihou.cc:555/tv/[At|]广东珠江
 广东珠江欣赏,http://rihou.cc:555/tv/[Cx]广东珠江
 广东珠江欣赏,http://rihou.cc:555/tv/[AtI]广东珠江
-⬇️特闽新闻⬇️,http://rihou.cc:555/tv/v
 有线新闻欣赏,http://rihou.cc:555/tv/[Mt]有线新闻
 有线新闻欣赏,http://rihou.cc:555/tv/[Hv]有线新闻
 有线新闻欣赏,http://rihou.cc:555/tv/[FY]有线新闻
@@ -884,7 +897,6 @@ CCTV-17高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 青海卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
 吉林卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 黑龙江视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
-⬇️赛事抖音网页直播⬇️,http://rihou.cc:555/tv/t
 绝嗲数码抖播,video://https://live.douyin.com/277034086130
 音乐库抖直播,video://http://rihou.cc:555/tv/mu10
 杨凯乔抖直播,video://http://rihou.cc:555/tv/dt
