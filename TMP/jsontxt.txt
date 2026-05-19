@@ -2808,3 +2808,92 @@ Trace Urban,https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m
 TRACE Urban,https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8
 Trailers,https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
 Travel+Adventure,http://31.148.48.15/Travel_Adventure_HD/index.m3u8
+Travelxp HD,https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
+Trece,http://92.176.119.180:2095/play/a179
+Trece,http://92.176.119.180:2095/play/a1em
+Tribeca Channel,https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8
+Trivu,https://www.chasquirouter.com/salida/sd/trivu.m3u8
+Tropi Q 99.7 FM,https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
+TRT 1,https://tv-trt1.medya.trt.com.tr/master.m3u8
+TRT Arabi,https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+TRT World,https://tv-trtworld.medya.trt.com.tr/master.m3u8
+True Crime Network+,https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
+True Crime Now,https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungau/playlist.m3u8
+True Crime Now,https://amg00376-magellan-amg00376c11-rakuten-us-1700.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowww-rakutenus/playlist.m3u8
+True Crime Now,https://amg00376-magellan-amg00376c12-samsung-nz-1727.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungnz/playlist.m3u8
+Tsargrad TV,https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
+TSN1,https://tvpass.org/live/tsn1/hd
+TSN2,https://tvpass.org/live/tsn2/hd
+TSN3,https://tvpass.org/live/tsn3/hd
+TSN5,https://tvpass.org/live/tsn5/hd
+TUDN,https://streaming.alwaysdata.net/tudn.php
+TUDN,https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+TUDN,http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
+TUTV,https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+TV 1 Oberösterreich,https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
+TV2,http://46.149.191.217:9005/play/a01q
+TV 2/Bornholm,https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
+TV5 HD,https://cdn4.skygo.mn/live/disk1/TV5HD/DASH-FTA/TV5HD.mpd
+TV5Monde Style,https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+TV5 Quebec Canada,http://23.133.220.149/TV5/index.m3u8
+TV8 HD,https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd
+TV 8,https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+TV9 HD,https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd
+MN25,https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
+TV38 Südost-Niedersachen,https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
+TV 100,https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+TV 264,https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
+TVA,https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+TV Aparecida,https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+TV Bahoriston,https://live.teleradiocom.tj/3/3m.m3u8
+TV BRICS Africa,https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
+TV BRICS Chinese,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
+TV BRICS English,https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
+TV BRICS Portuguese,https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+TV BRICS Russian,https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+TV BRICS Spanish,https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
+TV Brno 1,https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TV Câmara,https://stream3.camara.gov.br/tv1/manifest.m3u8
+TV Canal Sur,https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
+TV Canindeyu,https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
+TVCG MNE,https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
+TV Cisne,https://video2.lhdserver.es/tvcisne/live.m3u8
+TV Cuatro 4.1,https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+TV Cuatro 4.2,https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+TV Daja,https://edge.essastream.com/dajatv/playlist.m3u8
+TV Difusora Leste,https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+TVE RS,http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+TV Eger,http://stream.tveger.hu:8010/live.m3u8
+TVE Internacional America,https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+TVE Internacional Asia-Oceania,https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
+TVE Internacional Europe HD,https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
+TV Ellef,http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8
+TVE RS,https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+TVE Star HD,https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+Folketinget,https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+TV Futuro,https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+TV Grande Natal,http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+TV Ingolstadt,https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+TV Liptov,http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
+TVM3,https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+TVM,https://stream.smashmalta.com:25463/live/webplayer/livestream/19.m3u8
+TV Mainfranken,https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+TV Mais Maricá,https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+TV Maná 1,https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+TV Maná 2,https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+TV Maná Brasil,https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+TV Maná English,https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
+TV Maná Español,https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+TV Maná Moçambique,https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+TV Maná Russkiy,https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
+TVMarineret,http://sdream.info:8080/hls/livestream/index.m3u8
+TV Mar La Paz,https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+TV Mar Los Cabos,https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
+TV Mar Puerto Vallarta,https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+TV Monaco,https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+TV Montana Canal 10,https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8
+TVM para ti,https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
+TVMsport+,https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
+TVN3,https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+TV Natal,http://185.228.163.146:8000/play/a01y/index.m3u8
