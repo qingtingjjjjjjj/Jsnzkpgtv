@@ -83,8 +83,9 @@ def convert_m3u_to_txt(urls, exclude_chars=None, output_file="TMP/temp.txt"):
 if __name__ == "__main__":
     # 替换为你需要处理的M3U URL列表
     m3u_urls = [
-        "https://raw.githubusercontent.com/xJEYDAin/iptv-scraper/refs/heads/master/output/all_merged.m3u",   
+        #"https://raw.githubusercontent.com/xJEYDAin/iptv-scraper/refs/heads/master/output/all_merged.m3u",   
         #"https://xoxo.cn.mt/Lonely.m3u",
+        "https://github.com/joaquinito2036-rgb/iptvfast/blob/main/output/all.m3u",
     ]
     
     # 需要排除的字符列表
