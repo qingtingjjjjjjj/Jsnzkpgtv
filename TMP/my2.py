@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-TVBox M3U直播源获取工具
-- 直接获取 M3U 格式内容
-- 转换为 TXT（频道名,URL）
-- 按分组过滤排除关键词
+TVBox M3U直播源获取工具（模拟TVBox UA）
 """
 
 import requests
@@ -21,32 +18,35 @@ API_URLS = [
 EXCLUDE_KEYWORDS = ["音乐", "金曲", "DJ", "黄色", "激情", "私拍"]  # 分组名含这些关键词则跳过
 OUTPUT_FILE = "my3.txt"
 
-USER_AGENTS = [
-    "okhttp/3.12.1",
-    "Dalvik/2.1.0 (Linux; U; Android 12; SM-G998B Build/SP1A.210812.016)",
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-]
+TVBOX_UA = "okhttp/3.15"  # TVBox的默认User-Agent
 
 def fetch_m3u(url):
-    """尝试多个 UA 获取 M3U 内容"""
-    for ua in USER_AGENTS:
-        try:
-            resp = requests.get(url, headers={"User-Agent": ua}, timeout=15, verify=False)
-            resp.encoding = "utf-8"
-            text = resp.text.strip()
-            if text.startswith("#EXTM3U") or "#EXTINF" in text[:500]:
-                print(f"✓ 成功获取 M3U (UA: {ua[:30]}...)")
-                return text
-        except:
-            continue
-    return None
+    """使用TVBox UA获取M3U内容"""
+    try:
+        resp = requests.get(
+            url, 
+            headers={
+                'User-Agent': TVBOX_UA,
+                'Accept': '*/*',
+                'Accept-Encoding': 'gzip, deflate',
+            }, 
+            timeout=15, 
+            verify=False
+        )
+        resp.encoding = "utf-8"
+        text = resp.text.strip()
+        if text.startswith("#EXTM3U") or "#EXTINF" in text[:500]:
+            print(f"✓ 成功获取M3U (Status {resp.status_code})")
+            return text
+        else:
+            print(f"✗ 内容不是M3U格式，前100字符: {text[:100]}")
+            return None
+    except requests.RequestException as e:
+        print(f"✗ 请求失败: {e}")
+        return None
 
 def parse_m3u_to_txt(m3u_content):
-    """
-    将 M3U 转换为 TXT 格式
-    输入: M3U 字符串
-    输出: TXT 字符串，每行 "频道名,URL"
-    """
+    """将M3U转换为TXT格式"""
     if not m3u_content:
         return ""
 
@@ -60,7 +60,7 @@ def parse_m3u_to_txt(m3u_content):
         if not line:
             continue
 
-        # 跳过注释行（但不跳过 #EXTINF）
+        # 跳过全局注释
         if line.startswith("#EXTM3U") or line.startswith("#EXT-X-") or line.startswith("//"):
             continue
 
@@ -70,24 +70,22 @@ def parse_m3u_to_txt(m3u_content):
             match = re.search(r',([^,]+)$', line)
             if match:
                 current_name = match.group(1).strip()
-            # 提取分组名 (group-title)
+            # 提取分组名
             group_match = re.search(r'group-title="([^"]*)"', line)
             if group_match:
                 current_group = group_match.group(1).strip()
             continue
 
-        # 处理 URL 行（非注释行且不是空行）
+        # 处理 URL 行
         if line and not line.startswith("#") and current_name:
-            # 如果分组有效，先添加分组标记（仅在分组变化时）
             if current_group:
                 group_line = f"{current_group},#genre#"
                 if not result or result[-1] != group_line:
                     result.append(group_line)
-            # 添加频道行
             result.append(f"{current_name},{line}")
-            current_name = None  # 重置，等待下一个 #EXTINF
+            current_name = None
 
-    # 去重分组标记（保留第一次出现）
+    # 去重分组标记
     seen = set()
     unique_result = []
     for line in result:
@@ -99,9 +97,7 @@ def parse_m3u_to_txt(m3u_content):
     return "\n".join(unique_result)
 
 def filter_by_group(txt_content, exclude_keywords):
-    """
-    按分组过滤：如果分组名包含任意排除关键词，则删除整个分组及其所有频道
-    """
+    """按分组过滤"""
     if not txt_content:
         return ""
 
@@ -111,13 +107,12 @@ def filter_by_group(txt_content, exclude_keywords):
 
     for line in lines:
         if line.endswith(",#genre#"):
-            # 分组行
-            group_name = line[:-7]  # 去掉结尾的 ",#genre#"
+            group_name = line[:-7]
             if any(kw.lower() in group_name.lower() for kw in exclude_keywords):
                 skip_group = True
             else:
                 skip_group = False
-                filtered.append(line)  # 保留分组行
+                filtered.append(line)
         else:
             if not skip_group:
                 filtered.append(line)
@@ -125,7 +120,7 @@ def filter_by_group(txt_content, exclude_keywords):
     return "\n".join(filtered)
 
 def main():
-    print("TVBox M3U → TXT 转换工具")
+    print("TVBox M3U → TXT 转换工具 (模拟TVBox UA)")
     all_txt_parts = []
 
     for url in API_URLS:
