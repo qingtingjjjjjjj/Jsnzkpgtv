@@ -31,7 +31,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # 目标接口地址列表（可配置多个）
 # 程序会依次获取每个接口的直播源内容并合并
 API_URLS = [
-    "http://tv.nxog.top/m/",
+    #"http://tv.nxog.top/m/",
     # 可以添加更多接口地址...
     # "http://tv.nxog.top/api.php?mz=xb&id=2&b=欧歌",
     # "http://other-api.com/config.json",
