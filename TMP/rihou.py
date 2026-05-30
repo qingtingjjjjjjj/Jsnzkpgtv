@@ -10,9 +10,9 @@ EXCLUDE_KEYWORDS = [
     "射雕英雄", "神雕侠侣", "欣赏音乐", "凡人修仙传", "轮播","频晴","频陆"
 ]
 
-# 行内容过滤关键词
+# 行内容过滤关键词（已删除 "p3p"）
 CONTENT_FILTER_KEYWORDS = [
-    "盗源", "DJ", "p3p", "shorturl", "更新", "group", 
+    "盗源", "DJ", "shorturl", "更新", "group", 
     "颜人中", "打赏", "购买", "河南网", "阜阳", "野草", "少儿", 
     "广东体育", "\\", "iill.top","凡人修仙传","woshinibaba","cfss.cc"
 ]
@@ -101,59 +101,11 @@ class TVSourceProcessor:
         return result
 
     def save_to_file(self, lines: list, filename: str, first_line: str):
-        """保存到文件"""
+        """保存到指定文件夹的文件"""
         try:
-            content = [first_line] + lines
-            with open(filename, 'w', encoding='utf-8') as f:
-                f.write('\n'.join(content))
-            file_size = os.path.getsize(filename)
-            print(f"保存: {filename} ({len(content)}行, {file_size}字节)")
-            return True
-        except Exception as e:
-            print(f"保存失败: {e}")
-            return False
+            # 自动创建输出目录（如果不存在）
+            output_dir = os.path.dirname(filename)
+            if output_dir and not os.path.exists(output_dir):
+                os.makedirs(output_dir)
 
-    def process(self):
-        """主处理流程"""
-        print("开始处理直播源")
-        
-        urls = [
-            #"http://119.91.7.169:35789/dszb/dszb.txt",
-            "http://rihou.cc:555/gggg.nzk"
-        ]
-        print(f"源URL: {len(urls)}个")
-        
-        if not self.fetch_multiple_urls(urls):
-            print("无内容可处理")
-            return False
-        
-        filtered = self.remove_excluded_sections()
-        if not filtered:
-            print("排除后无内容")
-            return False
-        
-        final = self.remove_genre_lines_and_deduplicate(filtered)
-        if not final:
-            print("去重后无内容")
-            return False
-        
-        if self.save_to_file(final, "rihou.txt", "rihou,#genre#"):
-            print("处理完成")
-            return True
-        return False
-
-
-def main():
-    processor = TVSourceProcessor()
-    success = processor.process()
-    
-    if success and os.path.exists("rihou.txt"):
-        print(f"文件位置: {os.path.abspath('rihou.txt')}")
-        sys.exit(0)
-    else:
-        print("处理失败")
-        sys.exit(1)
-
-
-if __name__ == "__main__":
-    main()
+            content = [first_line] +
