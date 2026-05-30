@@ -10,9 +10,9 @@ EXCLUDE_KEYWORDS = [
     "射雕英雄", "神雕侠侣", "欣赏音乐", "凡人修仙传", "轮播","频晴","频陆"
 ]
 
-# 行内容过滤关键词（已删除 "p3p"）
+# 行内容过滤关键词
 CONTENT_FILTER_KEYWORDS = [
-    "盗源", "DJ", "shorturl", "更新", "group", 
+    "盗源", "DJ", "p3p", "shorturl", "更新", "group", 
     "颜人中", "打赏", "购买", "河南网", "阜阳", "野草", "少儿", 
     "广东体育", "\\", "iill.top","凡人修仙传","woshinibaba","cfss.cc"
 ]
@@ -101,14 +101,8 @@ class TVSourceProcessor:
         return result
 
     def save_to_file(self, lines: list, filename: str, first_line: str):
-        """保存到指定文件夹的文件"""
+        """保存到文件"""
         try:
-            # 自动创建输出目录（如果不存在）
-            output_dir = os.path.dirname(filename)
-            if output_dir and not os.path.exists(output_dir):
-                os.makedirs(output_dir)
-
-            # 之前报错的地方在这里，现在已经补全了
             content = [first_line] + lines
             with open(filename, 'w', encoding='utf-8') as f:
                 f.write('\n'.join(content))
@@ -124,6 +118,7 @@ class TVSourceProcessor:
         print("开始处理直播源")
         
         urls = [
+            #"http://119.91.7.169:35789/dszb/dszb.txt",
             "http://rihou.cc:555/gggg.nzk"
         ]
         print(f"源URL: {len(urls)}个")
@@ -142,8 +137,7 @@ class TVSourceProcessor:
             print("去重后无内容")
             return False
         
-        # 修改保存路径到 txt 文件夹
-        if self.save_to_file(final, "txt/rihou.txt", "rihou,#genre#"):
+        if self.save_to_file(final, "rihou.txt", "rihou,#genre#"):
             print("处理完成")
             return True
         return False
@@ -153,8 +147,8 @@ def main():
     processor = TVSourceProcessor()
     success = processor.process()
     
-    if success and os.path.exists("txt/rihou.txt"):
-        print(f"文件位置: {os.path.abspath('txt/rihou.txt')}")
+    if success and os.path.exists("rihou.txt"):
+        print(f"文件位置: {os.path.abspath('rihou.txt')}")
         sys.exit(0)
     else:
         print("处理失败")
