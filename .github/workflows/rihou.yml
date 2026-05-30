@@ -1,11 +1,9 @@
-
-
 name: rihou
 
 # 触发条件
 on:
   schedule:
-    # 每天 UTC 时间 00:00 和 12:00 运行
+    # 每天 UTC 时间 00:00, 04:00, 08:00, 12:00, 16:00, 20:00 运行 (每隔4小时)
     - cron: '0 0/4 * * *'
   workflow_dispatch: # 允许手动触发
 
@@ -27,22 +25,22 @@ jobs:
       with:
         python-version: '3.x'
 
-    # 3. 安装依赖
+    # 3. 安装依赖 (删除了未使用的 selenium)
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pandas requests selenium
+        pip install pandas requests
 
     # 4. 运行 Python 脚本
     - name: Run script
       run: |
         python TMP/rihou.py
 
-    # 5. 列出当前目录中的文件，确保 final_streams.txt 存在
+    # 5. 列出当前目录中的文件，确认 txt/rihou.txt 是否生成
     - name: List files in workspace
-      run: ls -la
+      run: ls -laR
 
-    # 6. 检查 Git 状态，确保文件已经被添加
+    # 6. 检查 Git 状态
     - name: Git status
       run: git status
 
@@ -52,16 +50,16 @@ jobs:
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
 
-    # 8. 提交并推送文件到项目仓库
+    # 8. 提交并推送文件到项目仓库 (修改路径为 txt/rihou.txt)
     - name: Commit and Push changes
       run: |
-        git add $(pwd)/rihou.txt  # 使用绝对路径确保路径正确
-        git commit -m "Update TMP with new streams" --allow-empty
-        git push origin HEAD:main  # 如果使用的是其他分支，请修改
+        git add txt/rihou.txt
+        git commit -m "Update rihou.txt with new streams" --allow-empty
+        git push origin HEAD:main
 
-    # 9. 上传输出文件作为 GitHub Action 的工件 (artifact)
+    # 9. 上传输出文件作为 GitHub Action 的工件 (artifact) (修改路径为 txt/rihou.txt)
     - name: Upload streams file
       uses: actions/upload-artifact@v4
       with:
-        name: s
-        path: rihou.txt
+        name: rihou_streams
+        path: txt/rihou.txt
