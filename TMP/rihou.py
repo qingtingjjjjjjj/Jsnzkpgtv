@@ -108,4 +108,58 @@ class TVSourceProcessor:
             if output_dir and not os.path.exists(output_dir):
                 os.makedirs(output_dir)
 
-            content = [first_line] +
+            # 之前报错的地方在这里，现在已经补全了
+            content = [first_line] + lines
+            with open(filename, 'w', encoding='utf-8') as f:
+                f.write('\n'.join(content))
+            file_size = os.path.getsize(filename)
+            print(f"保存: {filename} ({len(content)}行, {file_size}字节)")
+            return True
+        except Exception as e:
+            print(f"保存失败: {e}")
+            return False
+
+    def process(self):
+        """主处理流程"""
+        print("开始处理直播源")
+        
+        urls = [
+            "http://rihou.cc:555/gggg.nzk"
+        ]
+        print(f"源URL: {len(urls)}个")
+        
+        if not self.fetch_multiple_urls(urls):
+            print("无内容可处理")
+            return False
+        
+        filtered = self.remove_excluded_sections()
+        if not filtered:
+            print("排除后无内容")
+            return False
+        
+        final = self.remove_genre_lines_and_deduplicate(filtered)
+        if not final:
+            print("去重后无内容")
+            return False
+        
+        # 修改保存路径到 txt 文件夹
+        if self.save_to_file(final, "txt/rihou.txt", "rihou,#genre#"):
+            print("处理完成")
+            return True
+        return False
+
+
+def main():
+    processor = TVSourceProcessor()
+    success = processor.process()
+    
+    if success and os.path.exists("txt/rihou.txt"):
+        print(f"文件位置: {os.path.abspath('txt/rihou.txt')}")
+        sys.exit(0)
+    else:
+        print("处理失败")
+        sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()
