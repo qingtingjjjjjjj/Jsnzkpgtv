@@ -21,7 +21,7 @@ CONTENT_FILTER_KEYWORDS = [
 class TVSourceProcessor:
     def __init__(self):
         self.all_lines = []
-        self.current_genre = "未分类" # 记录当前的频道分组
+        self.current_genre = "直播源" # 默认分组名，不再用“未分类”
         self.session = requests.Session()
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
@@ -33,7 +33,8 @@ class TVSourceProcessor:
             print(f"获取: {url}")
             response = self.session.get(url, timeout=30)
             response.raise_for_status()
-            response.encoding = response.apparent_encoding
+            # 强制指定编码为 utf-8，解决乱码问题
+            response.encoding = 'utf-8'
             
             content = response.text
             lines = [line.strip() for line in content.splitlines() if line.strip()]
@@ -83,7 +84,9 @@ class TVSourceProcessor:
             
             # 1. 识别并更新分组信息
             if "#genre#" in line:
-                self.current_genre = line.split(',')[0].replace('#genre#', '').strip()
+                # 提取分组名，如果没有分组名则使用默认的 "直播源"
+                genre_part = line.split(',')[0].replace('#genre#', '').strip()
+                self.current_genre = genre_part if genre_part else "直播源"
                 i += 1
                 continue
             
@@ -115,6 +118,7 @@ class TVSourceProcessor:
                             channel_name = lines[i-1].split(',')[-1].strip()
                     
                     # 转换为标准的 TXT 格式：分组,频道名,URL
+                    # 注意这里不再加 "未分类,"
                     result.append(f"{self.current_genre},{channel_name},{url}")
                 i += 1
             
@@ -144,6 +148,7 @@ class TVSourceProcessor:
         """保存到文件"""
         try:
             content = [first_line] + lines
+            # 写入文件时也强制使用 utf-8 编码
             with open(filename, 'w', encoding='utf-8') as f:
                 f.write('\n'.join(content))
             file_size = os.path.getsize(filename)
@@ -176,7 +181,8 @@ class TVSourceProcessor:
             print("去重后无内容")
             return False
         
-        if self.save_to_file(final, "Jsnzkpg1.txt", "Jsnzkpg1,#genre#"):
+        # 修改输出文件的第一行标题
+        if self.save_to_file(final, "Jsnzkpg1.txt", "直播源,#genre#"):
             print("处理完成")
             return True
         return False
