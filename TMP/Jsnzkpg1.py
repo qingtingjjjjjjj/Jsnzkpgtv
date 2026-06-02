@@ -21,6 +21,7 @@ CONTENT_FILTER_KEYWORDS = [
 class TVSourceProcessor:
     def __init__(self):
         self.all_lines = []
+        self.current_genre = "未分类" # 记录当前的频道分组
         self.session = requests.Session()
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
@@ -71,33 +72,72 @@ class TVSourceProcessor:
         return result
 
     def remove_genre_lines_and_deduplicate(self, lines: list):
-        """删除genre行，按URL去重，并过滤内容关键词"""
+        """处理M3U数据，提取频道名和URL并转换为标准TXT格式"""
         result = []
         seen_urls = set()
         filtered_count = 0
         
-        for line in lines:
+        i = 0
+        while i < len(lines):
+            line = lines[i]
+            
+            # 1. 识别并更新分组信息
             if "#genre#" in line:
-                continue
-            if not line.strip():
+                self.current_genre = line.split(',')[0].replace('#genre#', '').strip()
+                i += 1
                 continue
             
+            if not line.strip():
+                i += 1
+                continue
+            
+            # 2. 过滤垃圾关键词
             line_lower = line.lower()
             if any(keyword.lower() in line_lower for keyword in CONTENT_FILTER_KEYWORDS):
                 filtered_count += 1
+                i += 1
                 continue
             
+            # 3. 核心修改：尝试提取 URL 和 频道名
             url_match = re.search(r'(https?://[^\s,]+)', line)
+            
+            # 情况A：当前行就是 URL（M3U 标准格式的第二行）
             if url_match:
                 url = url_match.group(1)
                 if url not in seen_urls:
                     seen_urls.add(url)
-                    result.append(line)
+                    channel_name = "未知频道"
+                    
+                    # 检查上一行是否是 #EXTINF，如果是，从中提取频道名
+                    if i > 0 and lines[i-1].startswith('#EXTINF'):
+                        # 提取逗号后面的内容作为频道名
+                        if ',' in lines[i-1]:
+                            channel_name = lines[i-1].split(',')[-1].strip()
+                    
+                    # 转换为标准的 TXT 格式：分组,频道名,URL
+                    result.append(f"{self.current_genre},{channel_name},{url}")
+                i += 1
+            
+            # 情况B：当前行是 #EXTINF，但没找到 URL，需要看下一行
+            elif line.startswith('#EXTINF'):
+                channel_name = line.split(',')[-1].strip() if ',' in line else "未知频道"
+                # 检查下一行是否存在且是 URL
+                if i + 1 < len(lines):
+                    next_line = lines[i+1]
+                    next_url_match = re.search(r'(https?://[^\s,]+)', next_line)
+                    if next_url_match:
+                        url = next_url_match.group(1)
+                        if url not in seen_urls:
+                            seen_urls.add(url)
+                            result.append(f"{self.current_genre},{channel_name},{url}")
+                        i += 2 # 跳两行，因为已经处理了下一行
+                        continue
+                i += 1
             else:
-                result.append(line)
+                i += 1
         
         print(f"内容过滤: {filtered_count} 行被过滤")
-        print(f"去重后: {len(result)} 行")
+        print(f"去重并转换格式后: {len(result)} 行")
         return result
 
     def save_to_file(self, lines: list, filename: str, first_line: str):
@@ -117,7 +157,6 @@ class TVSourceProcessor:
         """主处理流程"""
         print("开始处理直播源")
         
-        # 修改点1: 更新为新的源地址
         urls = [
             "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg1.m3u"
         ]
@@ -137,8 +176,6 @@ class TVSourceProcessor:
             print("去重后无内容")
             return False
         
-        # 修改点2: 更新保存的文件名为 Jsnzkpg1.txt
-        # 修改点3: 更新 Genre 名称为 Jsnzkpg1
         if self.save_to_file(final, "Jsnzkpg1.txt", "Jsnzkpg1,#genre#"):
             print("处理完成")
             return True
@@ -149,7 +186,6 @@ def main():
     processor = TVSourceProcessor()
     success = processor.process()
     
-    # 修改点4: 更新成功提示中的文件名
     if success and os.path.exists("Jsnzkpg1.txt"):
         print(f"文件位置: {os.path.abspath('Jsnzkpg1.txt')}")
         sys.exit(0)
