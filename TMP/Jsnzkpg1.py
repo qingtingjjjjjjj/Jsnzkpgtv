@@ -21,7 +21,6 @@ CONTENT_FILTER_KEYWORDS = [
 class TVSourceProcessor:
     def __init__(self):
         self.all_lines = []
-        self.current_genre = "直播源" # 默认分组名，不再用“未分类”
         self.session = requests.Session()
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
@@ -82,11 +81,8 @@ class TVSourceProcessor:
         while i < len(lines):
             line = lines[i]
             
-            # 1. 识别并更新分组信息
+            # 1. 跳过分组信息行，不再记录分组
             if "#genre#" in line:
-                # 提取分组名，如果没有分组名则使用默认的 "直播源"
-                genre_part = line.split(',')[0].replace('#genre#', '').strip()
-                self.current_genre = genre_part if genre_part else "直播源"
                 i += 1
                 continue
             
@@ -117,9 +113,8 @@ class TVSourceProcessor:
                         if ',' in lines[i-1]:
                             channel_name = lines[i-1].split(',')[-1].strip()
                     
-                    # 转换为标准的 TXT 格式：分组,频道名,URL
-                    # 注意这里不再加 "未分类,"
-                    result.append(f"{self.current_genre},{channel_name},{url}")
+                    # 转换为标准的 TXT 格式：频道名,URL (去掉了前面的分组)
+                    result.append(f"{channel_name},{url}")
                 i += 1
             
             # 情况B：当前行是 #EXTINF，但没找到 URL，需要看下一行
@@ -133,7 +128,7 @@ class TVSourceProcessor:
                         url = next_url_match.group(1)
                         if url not in seen_urls:
                             seen_urls.add(url)
-                            result.append(f"{self.current_genre},{channel_name},{url}")
+                            result.append(f"{channel_name},{url}")
                         i += 2 # 跳两行，因为已经处理了下一行
                         continue
                 i += 1
@@ -181,8 +176,8 @@ class TVSourceProcessor:
             print("去重后无内容")
             return False
         
-        # 修改输出文件的第一行标题
-        if self.save_to_file(final, "Jsnzkpg1.txt", "直播源,#genre#"):
+        # 修改输出文件的第一行标题为 Jsnzkpg1,#genre#
+        if self.save_to_file(final, "Jsnzkpg1.txt", "Jsnzkpg1,#genre#"):
             print("处理完成")
             return True
         return False
