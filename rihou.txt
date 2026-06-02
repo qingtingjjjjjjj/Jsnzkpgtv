@@ -1,6 +1,6 @@
 rihou,#genre#
 06-12⬇️世界杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
-03:00墨西哥🆚南非,http://rihou.cc:555/tv/v
+A组03:00墨西哥🆚南非,http://rihou.cc:555/tv/v
 国🔊12世评述,http://rihou.cc:555/tv/12世界杯评述
 国🔊12世述评,http://rihou.cc:555/tv/12世界杯述评
 国🔊13世评述,http://rihou.cc:555/tv/13世界杯评述
@@ -513,8 +513,8 @@ WWE_格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 经典音乐频道,https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 ⬇️全天直播⬇️,video://http://rihou.cc:555/tv/网页库播
 音乐播库抖播,video://http://rihou.cc:555/tv/网页播库
-音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖02
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖02
+音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖03
+音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖03
 翡翠音乐抖播,video://http://rihou.cc:555/tv/网页翡翠
 怀旧音乐抖播,video://http://rihou.cc:555/tv/网页怀音
 怀旧粤语抖播,video://http://rihou.cc:555/tv/网页怀粤
