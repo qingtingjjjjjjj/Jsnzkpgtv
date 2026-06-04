@@ -3100,3 +3100,109 @@ Wipeout Xtra,https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.t
 Wipeout Xtra,https://amg00627-banijaygroup-wipeoutxtranz-samsungnz-j1dyx.amagi.tv/playlist/amg00627-banijaygroup-wipeoutxtranz-samsungnz/playlist.m3u8
 Wipeout Xtra,https://d36nnn435goed2.cloudfront.net/WipeoutXtraPoweredbyBanijay_GB.m3u8
 Wipeout Xtra,https://djoigjo2g1xzo.cloudfront.net/Wipeout_Xtra.m3u8
+WiseHumanTv,https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
+WITI-DT1,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
+NBC 6 Johnstown PA (WJAC),https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8
+NBC 10 Cranston RI (WJAR),https://linear-694.frequency.stream/dist/stirr/694/hls/master/playlist.m3u8
+WJAX-DT1,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
+WJBK-DT1,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
+ABC 7 Washington DC (WJLA),https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
+WKAQ-DT1 (Telemundo PR),https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+ABC 22 Dayton OH (WKEF),https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8
+CBS 12 Cincinnati OH (WKRC),https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8
+WLMB,https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8
+ABC 13 Asheville NC (WLOS),https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8
+FOX 11 Green Bay WI (WLUK),https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
+NBC 5 Chicago IL (WMAQ),https://amg00884-nbcuniversal-nbcch-pcr-xumo-e9lcl.amagi.tv/playlist.m3u8
+PBS MPT Baltimore MD (WMPB),https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+WNET-DT1,https://tvpass.org/live/WNET/hd
+NBC 13 Albany NY (WNYT),https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8
+WNYW-DT1,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+NBC 4 San Antonio TX (WOAI),https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8
+Women's Sports Network,https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
+Wonder,https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+Wonder,https://lds-wonder-plex.amagi.tv/playlist.m3u8
+World Channel,https://world.lls.pbs.org/index.m3u8
+World of Freesports,https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
+World of Freesports,https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+World Poker Tour,https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
+World Poker Tour,https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8
+World Poker Tour,https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
+WOS TV,https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+WOS TV,https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+WOS TV,https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8
+WOW TV,https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
+ABC 15 Myrtle Beach FL (WPDE),https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8
+CBS 12 West Palm Beach FL (WPEC),https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
+WPXI-DT1,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
+WSB-DT1,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
+WSBS-DT1,https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
+CBS 22 South Bend IN (WSBT),https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8
+WSOC Now,https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8
+WSOC-DT1,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
+WSOC Charlotte,https://d1q60ra9vxbqm1.cloudfront.net/playlist.m3u8
+ABC 6 Columbus OH (WSYX),https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
+NBC 9 Steubenville OH (WTOV),https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8
+WTTG-DT1,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+WTV Canal 20,https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
+WTVJ-DT1,https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
+WTVT-DT1,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
+WTXF-DT1,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
+WVCU-LP Concord University Radio The Cure 97.7,https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
+CBS 3 Kalamazoo MI (WWMT),https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8
+WWXY-DT1 (Boricua TV),https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
+Telemax (XEWH-TDT),https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+IERTBCS Canal 8 La Paz,https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
+Notigram TV (XHFGL-TDT),https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
+XITE Classic Country,https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8
+XITE Hits,https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+XITE Hits UK,https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+XITE Just Chill,https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+XITE Reggae Vibes,https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
+XITE Rock x Metal,https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8
+XITE Rock x Metal,https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+X Level Media,https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+Xplore,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+Xplore,https://amg00111-hearstmediaprod-xploreintlse-samsungse-lvo6s.amagi.tv/playlist/amg00111-hearstmediaprod-xploreintlse-samsungse/playlist.m3u8
+Xplore,https://depdwjha9qyli.cloudfront.net/Xplore.m3u8
+Xplore,https://xplore-vizio.amagi.tv/playlist.m3u8
+Yachting TV,https://streams2.sofast.tv/vglive-sk-461164/index.m3u8
+Yahoo! Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+Yahoo Finance,https://amg00119-amg00119c1-firetv-us-4205.playouts.now.amagi.tv/playlist.m3u8
+Yahoo! Finance,https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8
+Yahoo! Finance,https://yahoo-plex.amagi.tv/playlist.m3u8
+Yahoo! Finance,https://yahoo-roku-us.amagi.tv/playlist.m3u8
+Yahoo! Finance,https://yahoo-samsung.amagi.tv/playlist.m3u8
+Первый Ярославский,https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
+YLE TV Teema & Fem,https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
+YLE TV 1,https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
+YLE TV 2,https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
+Yoshlar,https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8
+Young Hollywood,https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8
+YRF Music,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+Yu-Gi-Oh!,https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+Yu Gi Oh,https://dwgcgcahlni2h.cloudfront.net/playlist.m3u8
+Yu-Gi-Oh! en espanol,https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
+Yuma AZ CH 72,https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+Yuma AZ CH 73,https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+Запад 24 (Калининград),https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+Zaracay TV,https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+Zarin TV,https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+ZAZ,https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+ZB Cartoon,https://server.zillarbarta.com/zbcatun/video.m3u8
+Zee News,https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+Zee News,https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
+Zee One,https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
+Zee One,https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8
+Zee TV UK HD,https://mini.allinonereborn.fun/tata.php?id=11783
+zenith,https://live.azenagroup.com/zenith/index.ll.m3u8
+ЖИВИ!,http://31.148.48.15/Zhivi/index.m3u8
+ZNS-TV,https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8
+Zoo Moo (Australia),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+ZooMoo Asia,https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
+Zoo Moo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+Zoo Moo,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+ZooMoo,https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8
+Звезда,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+Звезда,https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+Звезда Плюс,http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
