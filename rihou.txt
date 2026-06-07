@@ -1,6 +1,7 @@
 rihou,#genre#
-06-12⬇️世界杯小组赛⬇️⚽📡,http://rihou.cc:555/tv/t
-A组03:00墨西哥🆚南非,http://rihou.cc:555/tv/v
+06-08⬇️世界杯热身赛⬇️⚽📡,http://rihou.cc:555/tv/t
+03:03摩洛哥🆚挪威,http://rihou.cc:555/tv/v
+国🔊08热评述,http://rihou.cc:555/tv/08热身咪评述
 国🔊12世评述,http://rihou.cc:555/tv/12世界杯评述
 国🔊12世述评,http://rihou.cc:555/tv/12世界杯述评
 国🔊13世评述,http://rihou.cc:555/tv/13世界杯评述
