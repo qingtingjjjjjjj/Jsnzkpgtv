@@ -1,6 +1,13 @@
 rihou,#genre#
 06-10⬇️世界杯热身赛⬇️⚽📡,http://rihou.cc:555/tv/t
 09:08阿根廷🆚冰岛,http://rihou.cc:555/tv/v
+粤🔊10老黄述,http://rihou.cc:555/tv/10热身老黄述
+粤🔊10小肥述,http://rihou.cc:555/tv/10热身小肥述
+粤🔊10牛哥述,http://rihou.cc:555/tv/10热身牛哥述
+粤🔊10碧咸述,http://rihou.cc:555/tv/10热身碧咸述
+国🔊10爱酱述,http://rihou.cc:555/tv/10热身爱酱述
+国🔊10真实述,http://rihou.cc:555/tv/10热身真实述
+国🔊10小斐述,http://rihou.cc:555/tv/10热身小斐述
 国🔊10热评述,http://rihou.cc:555/tv/10热身咪评述
 国🔊12世评述,http://rihou.cc:555/tv/12世界杯评述
 国🔊12世述评,http://rihou.cc:555/tv/12世界杯述评
@@ -514,8 +521,8 @@ WWE_格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 经典音乐频道,https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 ⬇️全天直播⬇️,video://http://rihou.cc:555/tv/网页库播
 音乐播库抖播,video://http://rihou.cc:555/tv/网页播库
-音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖09
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖09
+音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖10
+音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖10
 翡翠音乐抖播,video://http://rihou.cc:555/tv/网页翡翠
 怀旧音乐抖播,video://http://rihou.cc:555/tv/网页怀音
 怀旧粤语抖播,video://http://rihou.cc:555/tv/网页怀粤
