@@ -634,6 +634,23 @@ NOW体育6,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stre
 NOW体育7,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
 NOW体育4K1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
 NOW体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
+HUB SPORTS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1451817
+HUB SPORTS 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/280827
+HUB SPORTS 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/280828
+HUB SPORTS 3,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/280829
+HUB SPORTS 4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/280830
+HUB SPORTS 5,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/280831
+NOW SPORTS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1451767
+SKY SPORTS NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236217
+SKY SPORTS ACTION,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236226
+SKY SPORTS CRICKET,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236223
+SKY SPORTS F1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236225
+SKY SPORTS FOOTBALL,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236220
+SKY SPORTS GOLF,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236224
+SKY SPORTS MAIN EVENT,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236218
+SKY SPORTS MIX,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236228
+SKY SPORTS PREMIER LEAGUE,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236219
+SKY SPORTS RACING,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236227
 德甲1,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/1138922.m3u8
 德甲1,http://seatv.xyz/live/3Z4SFBM0NJX0N9H/yVVlYoaT60/1138922.m3u8
 德甲2,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/1030380.m3u8
