@@ -171,15 +171,18 @@ NBC News Now,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDI
 One American News,https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
 Discovery Channel,http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 Disney XD,http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-ESPN,http://41.205.93.154/ESPN/index.m3u8
-ESPN U,http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+Sky Sports Football,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2188.ts
+Sky Sports News,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts
+Sky Sports Premier League,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts
+Sportsnet 360,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3073.ts
+Big Ten Network,http://23.237.104.106:8080/USA_BTN/index.m3u8
+Trace Sport Stars,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 HBO,http://23.237.104.106:8080/USA_HBO/index.m3u8
 HBO 2,http://23.237.104.106:8080/USA_HBO2/index.m3u8
 Lifetime Movie Network,http://23.237.104.106:8080/USA_LMN/index.m3u8
 National Geographic,http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 Cartoon Network,http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 CMT,http://23.237.104.106:8080/USA_CMT/index.m3u8
-TalkTV,https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 Newsy,https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
@@ -221,9 +224,7 @@ LG 1 Spotlight,https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959&avod=
 LG 1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
 GoUSA TV,https://cc2b7c60df304389ba60c76790d1a82f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_GoUSATV/playlist.m3u8
 Inside Outside,https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
-Big Ten Network,http://23.237.104.106:8080/USA_BTN/index.m3u8
-Trace Sport Stars,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-TalkTV,https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+Showtime Extreme,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts
 Adventure Earth,https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 Autentic History,https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 Autentic Travel,https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
