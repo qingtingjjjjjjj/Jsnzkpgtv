@@ -1,4 +1,30 @@
 test,#genre#
+616,http://77.90.60.172:55555/8
+617,http://77.90.60.172:55555/6
+618,http://77.90.60.172:55555/4
+619,http://77.90.60.172:55555/3
+TSN 4K,http://77.90.60.172:55555/1
+福克斯4K,http://77.90.60.172:55555/5
+福克斯体育1,http://77.90.60.172:55555/7
+德语ORF 1,http://77.90.60.172:55555/9
+TNT2,http://77.90.60.172:55555/0
+618备用,http://77.90.60.172:55555/10
+616备用,http://77.90.60.172:55555/11
+wee1，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=wwe1
+wwe2，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=wwe2
+现在电视，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=nowtv
+新加坡体育1台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports1
+新加坡体育2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports2
+新加坡体育3台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports3
+新加坡超级足球台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgPremier
+新加坡贝因体育1台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein1
+新加坡贝因体育2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein2
+新加坡贝因体育3台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein3
+新加坡贝因体育4台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein4
+新加坡贝因体育5台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein5
+新加坡Spotv台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSpotv
+新加坡Spotv2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSpotv2
+新加坡NBA台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgNba
 cctv5,http://82.156.243.185:36888/av3a/cctv5n.m3u8
 cctv5p,http://82.156.243.185:36888/av3a/cctv5pn.m3u8
 cctv16,http://82.156.243.185:36888/av3a/cctv16n.m3u8
@@ -47,7 +73,7 @@ cctv8k,http://82.156.243.185:36888/av3a/cctv8k.m3u8
 七月的极光,https://cfss.cc/api/kg/15538194.mp4
 I Do,https://cfss.cc/api/kg/14892888.mp4
 圣徒,https://cfss.cc/api/kg/14853256.mp4
-女儿殿下,https://cfss.cc/api/kg/14853262.mp4
+女儿殿下,https://cfss.cc/api/kg/15789427.mp4
 淘金小镇,https://cfss.cc/api/kg/14862409.mp4
 乡间的路,https://cfss.cc/api/kg/15118204.mp4
 圣诞星,https://cfss.cc/api/kg/11666088.mp4
@@ -631,26 +657,14 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 咪咕频道,https://live12.szyac.com/live/12871538.m3u8
 CCTV5,https://live12.szyac.com/live/85042987.m3u8
 澳门体育,https://live12.szyac.com/live/77795881.m3u8
-小红书,https://live12.szyac.com/live/79298159.m3u8
 ELTA体育1,https://live12.szyac.com/live/13212901.m3u8
-央视频,https://live13.quzeay.com/live/12345678.m3u8
 咪咕频道,https://live.666666.zip/stream/12871538.m3u8
 CCTV5,https://live.666666.zip/stream/85042987.m3u8
 澳门体育,https://live.666666.zip/stream/77795881.m3u8
-小红书,https://live.666666.zip/stream/79298159.m3u8
 ELTA体育1,https://live.666666.zip/stream/13212901.m3u8
-央视频,https://live.666666.zip/stream/4460950.m3u8
 凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
 凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
 凤凰中文,http://feilong123.vip/409990236/hktv.php?id=3
-NOW616,http://77.90.60.172:55555/6
-NOW617,http://77.90.60.172:55555/8
-NOW618,http://77.90.60.172:55555/3
-NOW619,http://77.90.60.172:55555/4
-TSN 4K,http://77.90.60.172:55555/1
-福克斯4K,http://77.90.60.172:55555/5
-福克斯体育1,http://77.90.60.172:55555/7
-德语ORF 1,http://77.90.60.172:55555/9
 NOW体育1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
 NOW体育2,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
 NOW体育3,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
