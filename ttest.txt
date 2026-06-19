@@ -1,9 +1,12 @@
 test,#genre#
-爱尔达体育,https://live.666666.zip/stream/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
-【6/19 00:00】捷克 vs 南非,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4460939
-【6/19 03:00】瑞士 vs 波黑,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4460942
-【6/19 06:00】加拿大 vs 卡塔尔,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4459825
-【6/19 09:00】墨西哥 vs 韩国,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4459821
+【6.19回放】捷克 1-1 南非,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4460939
+【6.19回放】瑞士 4-1 波黑,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4460942
+【6.19回放】加拿大 6-0,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4459825
+【6.19回放】墨西哥 1-0 韩国,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4459821
+【6.20】美国 vs 澳大利亚03:00,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4459828
+【6.20】苏格兰 vs 摩洛哥06:00,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4460945
+【6.20】巴西 vs 海地08:30,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4460911
+【6.20】土耳其 vs 巴拉圭11:00,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4460948
 🔄美女短视频[刷新就是新内容],http://av.npcq.cn/api.php
 🔄韩国歌曲[刷新就是新内容],https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
 🔄网络热曲[刷新就是新内容],https://188sp.711888.xyz/188/video.php
@@ -651,6 +654,7 @@ NOW618,https://live.wxinxi.com/live/48439940.m3u8
 咪咕频道,https://live.666666.zip/stream/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8
 CCTV5,https://live.666666.zip/stream/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 澳门体育,https://live.666666.zip/stream/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
+ELTA体育1,https://live.666666.zip/stream/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
 NOW618,https://live.666666.zip/stream/19673350_q7rn7eycborzhybgd54yqch2o2c908vf.m3u8
 小红书,https://live.666666.zip/stream/79298159.m3u8
 凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
