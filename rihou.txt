@@ -52,6 +52,8 @@ D组03:00美国🆚澳大利亚,http://rihou.cc:555/tv/v
 国🔊28世杯述述,http://rihou.cc:555/tv/28世界杯述述
 国🔊28世杯旁述,http://rihou.cc:555/tv/28世界杯旁述
 国🔊28世杯述旁,http://rihou.cc:555/tv/28世界杯述旁
+国🔊20东评述,http://rihou.cc:555/tv/20东北超评述
+国🔊20东述评,http://rihou.cc:555/tv/20东北超述评
 CCTV-01咪咕,http://rihou.cc:555/tv/[mg]CCTV-01
 CCTV-02咪咕,http://rihou.cc:555/tv/[mg]CCTV-02
 CCTV-03咪咕,http://rihou.cc:555/tv/[mg]CCTV-03
