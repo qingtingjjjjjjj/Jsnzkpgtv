@@ -3315,3 +3315,19 @@ Yuma AZ CH 73,https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a
 Zaracay TV,https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 Zarin TV,https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 ZAZ,https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+Zee News,https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+Zee News,https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
+Zee One,https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
+Zee One,https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8
+zenith,https://live.azenagroup.com/zenith/index.ll.m3u8
+ЖИВИ!,http://31.148.48.15/Zhivi/index.m3u8
+ZNS-TV,https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8
+Zoo Moo (Australia),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+ZooMoo Asia,https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
+Zoo Moo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+Zoo Moo,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+ZooMoo,https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8
+Звезда,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+Zvezda,http://51.158.144.33:2021/zvezda/index.m3u8
+Звезда,https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+Звезда Плюс,http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
