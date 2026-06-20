@@ -1,12 +1,13 @@
 test,#genre#
-【6.19回放】捷克 1-1 南非,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4460939
-【6.19回放】瑞士 4-1 波黑,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4460942
-【6.19回放】加拿大 6-0,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4459825
-【6.19回放】墨西哥 1-0 韩国,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4459821
-【6.20】美国 vs 澳大利亚03:00,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4459828
-【6.20】苏格兰 vs 摩洛哥06:00,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4460945
-【6.20】巴西 vs 海地08:30,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4460911
-【6.20】土耳其 vs 巴拉圭11:00,https://sports.de5.net/xiaohongshu/xhs.php?match_id=4460948
+爱尔达体育,https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
+爱尔达体育,https://live.666666.zip/stream/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
+澳门体育,https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
+澳门体育,https://live.666666.zip/stream/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
+CCTV5体育,https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
+CCTV5体育,https://live.666666.zip/stream/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
+FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/035f3906-e664-4f1b-83f0-a7547730adce/0.m3u8
+FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/b31ebba5-b6b6-4083-9426-1c4bd66b7119/0.m3u8
 🔄美女短视频[刷新就是新内容],http://av.npcq.cn/api.php
 🔄韩国歌曲[刷新就是新内容],https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
 🔄网络热曲[刷新就是新内容],https://188sp.711888.xyz/188/video.php
@@ -646,15 +647,9 @@ HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
 澳门莲花,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
 重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
 咪咕频道,https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8
-CCTV5,https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
-澳门体育,https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
-ELTA体育1,https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
 NOW618,https://live.wxinxi.com/live/48439940.m3u8
 小红书,https://live.wxinxi.com/live/19673350_q7rn7eycborzhybgd54yqch2o2c908vf.m3u8
 咪咕频道,https://live.666666.zip/stream/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8
-CCTV5,https://live.666666.zip/stream/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
-澳门体育,https://live.666666.zip/stream/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
-ELTA体育1,https://live.666666.zip/stream/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
 NOW618,https://live.666666.zip/stream/19673350_q7rn7eycborzhybgd54yqch2o2c908vf.m3u8
 小红书,https://live.666666.zip/stream/79298159.m3u8
 凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
