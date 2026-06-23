@@ -3389,3 +3389,32 @@ YLE TV 2,https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
 Yoshlar,https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8
 Young Hollywood,https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8
 YRF Music,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+Yu-Gi-Oh!,https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+Yu Gi Oh,https://dwgcgcahlni2h.cloudfront.net/playlist.m3u8
+Yu-Gi-Oh! en espanol,https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
+Yuma AZ CH 72,https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+Yuma AZ CH 73,https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+Zagros TV,https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8
+Запад 24 (Калининград),https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+Zaracay TV,https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+Zarin TV,https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+ZAZ,https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+ZB Cartoon,https://server.zillarbarta.com/zbcatun/video.m3u8
+Zee News,https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+Zee News,https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
+Zee One,https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
+Zee One,https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8
+Zee TV UK HD,https://mini.allinonereborn.fun/tata.php?id=11783
+zenith,https://live.azenagroup.com/zenith/index.ll.m3u8
+zenith,https://live.azenagroup.com/zenith/index.m3u8
+ЖИВИ!,http://31.148.48.15/Zhivi/index.m3u8
+ZNS-TV,https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8
+Zoo Moo (Australia),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+ZooMoo Asia,https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
+Zoo Moo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+Zoo Moo,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+ZooMoo,https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8
+Звезда,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+Zvezda,http://51.158.144.33:2021/zvezda/index.m3u8
+Звезда,https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+Звезда Плюс,http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
