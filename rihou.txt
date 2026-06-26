@@ -23,7 +23,13 @@ I组03:00挪威🆚法国,http://rihou.cc:555/tv/v
 国🔊28世杯述述,http://rihou.cc:555/tv/28世界杯述述
 国🔊28世杯旁述,http://rihou.cc:555/tv/28世界杯旁述
 国🔊28世杯述旁,http://rihou.cc:555/tv/28世界杯述旁
+国🔊27东评述,http://rihou.cc:555/tv/27东北超评述
+国🔊27东述评,http://rihou.cc:555/tv/27东北超述评
+国🔊27东评评,http://rihou.cc:555/tv/27东北超评评
 国🔊29世杯评述,http://rihou.cc:555/tv/29世界杯评述
+国🔊30世杯评述,http://rihou.cc:555/tv/30世界杯评述
+国🔊30世杯述评,http://rihou.cc:555/tv/30世界杯述评
+国🔊30世杯评评,http://rihou.cc:555/tv/30世界杯评评
 CCTV-01咪咕,http://rihou.cc:555/tv/[mg]CCTV-01
 CCTV-02咪咕,http://rihou.cc:555/tv/[mg]CCTV-02
 CCTV-03咪咕,http://rihou.cc:555/tv/[mg]CCTV-03
@@ -484,8 +490,8 @@ WWE_格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 经典音乐频道,https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 ⬇️全天直播⬇️,video://http://rihou.cc:555/tv/网页库播
 音乐播库抖播,video://http://rihou.cc:555/tv/网页播库
-音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖26
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖26
+音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖27
+音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖27
 翡翠音乐抖播,video://http://rihou.cc:555/tv/网页翡翠
 怀旧音乐抖播,video://http://rihou.cc:555/tv/网页怀音
 怀旧粤语抖播,video://http://rihou.cc:555/tv/网页怀粤
