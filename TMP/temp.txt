@@ -156,11 +156,10 @@ HBO王牌,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
 河南曲艺,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=3f9e1d6e5c78cea99a876ce40f13202b&wsTime=1770400669
 移动戏曲,https://dxtx.hntv.tv/live/ydxq.m3u8?txSecret=caad41b421fdab7fa0dfbaf96f59f9f0&txTime=7B2E515F&wsSecret=b2484c40280981b4050b148e22943b0e&wsTime=1770400669
 国际,#genre#
-CNN,http://lordstreams.live:80/Alicia42/1915991510/277193
-BBC News,http://lordstreams.live:80/Alicia42/1915991510/277195
+BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 GB News,https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
 RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-FOX News,http://41.205.93.154/FOX-NEWS/index.m3u8
+TV Brics,https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
 France24,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 NHK World,https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 Al Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
