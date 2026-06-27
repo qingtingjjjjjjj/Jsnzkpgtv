@@ -102,14 +102,11 @@ TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 HOY77,http://cdn6.163189.xyz/163189/hoy
 HOY78,http://cdn.163189.xyz/163189/hoy78
 RTHK 32,http://cdn.163189.xyz/163189/rthk32
-ASTRO爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 ViuTV,https://cdn.163189.xyz/163189/viu
-ViuTVsix,https://cdn10.163189.xyz/stream/163189/viu6/
 邵氏动作,http://feilong123.vip/409990236/tv.php?id=ssdz
 邵氏电影,http://feilong123.vip/409990236/tv.php?id=ssdy
 邵氏武侠,http://feilong123.vip/409990236/tv.php?id=sswx
 邵氏喜剧,http://feilong123.vip/409990236/tv.php?id=ssxj
-AMC电影台,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
 HBO喜剧,http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
 HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 CN卡通,http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
