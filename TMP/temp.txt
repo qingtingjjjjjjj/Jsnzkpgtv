@@ -196,7 +196,6 @@ Action Hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningi
 Mytime Movie,https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 BBC Earth,https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 The First,https://thefirst-oando.amagi.tv/playlist.m3u8
-Trace Urban,https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 Kartoon Channel,https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 WE TV,http://23.237.104.106:8080/USA_WE_TV/mpegts
 ION Plus,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
