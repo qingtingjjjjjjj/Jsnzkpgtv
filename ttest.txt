@@ -644,14 +644,14 @@ CCTV5,https://live.666666.zip/stream/20233432.m3u8
 ELTA体育1,https://live.666666.zip/stream/16697898.m3u8
 ELTA体育2,https://live.666666.zip/stream/28361755.m3u8
 CCTV5+,https://live.666666.zip/stream/79635460.m3u8
-小红书,https://live.666666.zip/stream/22539477.m3u8
+小红书1,https://live.666666.zip/xiaohongshu/1.m3u8
 咪咕频道,https://live06.zuqiu106.com/live/80427327.m3u8
 CCTV5,https://live06.zuqiu106.com/live/20233432.m3u8
 澳门体育,https://live06.zuqiu106.com/live/38143826.m3u8
 ELTA体育1,https://live06.zuqiu106.com/live/16697898.m3u8
 ELTA体育2,https://live06.zuqiu106.com/live/28361755.m3u8
 CCTV5+,https://live06.zuqiu106.com/live/79635460.m3u8
-小红书,https://live06.zuqiu106.com/live/22539477.m3u8
+小红书2,https://live.666666.zip/xiaohongshu/2.m3u8
 咪咕1,https://www.rtmpcdn.com/live/migu1.m3u8
 咪咕2,https://www.rtmpcdn.com/live/migu2.m3u8
 CCTV5(临时),http://82.156.243.185:36888/av3a/cctv5n.m3u8
