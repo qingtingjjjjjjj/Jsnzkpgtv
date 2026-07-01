@@ -972,6 +972,19 @@ ESPN2 HD CHILE,http://108.181.20.255:27347/livehttpplay?channel_id=23560
 AMERICA TV HD PERU,http://108.181.20.255:27347/livehttpplay?channel_id=23561
 LATINA HD,http://108.181.20.255:27347/livehttpplay?channel_id=23562
 MEGA TV HD,http://108.181.20.255:27347/livehttpplay?channel_id=23563
+DHE HD,http://108.181.23.41:80/livehttpplay?channel_id=23504
+SEÑAL COLOMBIA HD ,http://108.181.23.41:80/livehttpplay?channel_id=23510
+CARACOL HD COLOMBIA,http://108.181.23.41:80/livehttpplay?channel_id=23513
+RCN HD COLOMBIA,http://108.181.23.41:80/livehttpplay?channel_id=23515
+DISNEY CHANELL HD,http://108.181.23.41:80/livehttpplay?channel_id=23517
+ESPN PREMIUM HD,http://108.181.23.41:80/livehttpplay?channel_id=23523
+TELEANTIOQUIA HD COLOMBIA,http://108.181.23.41:80/livehttpplay?channel_id=23532
+WIN SPORTS PREMIUM  COL,http://108.181.23.41:80/livehttpplay?channel_id=23542
+ON DIRECTV HD,http://108.181.23.41:80/livehttpplay?channel_id=23544
+WinSports HD,http://108.181.23.41:80/livehttpplay?channel_id=23548
+UNIVERSAL COMEDY HD,http://108.181.23.41:80/livehttpplay?channel_id=23550
+GOLDEN PLUS MX HD,http://108.181.23.41:80/livehttpplay?channel_id=23623
+NTN 24 HORAS ,http://108.181.23.41:80/livehttpplay?channel_id=23705
 ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
 Arirang Radio (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 BBS Buddhist Broadcasting (1080p),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
@@ -1053,18 +1066,6 @@ NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
 NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
 韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
-大湾区卫视,http://119.123.78.80:8086/hls/29/index.m3u8
-广东民生,http://119.123.78.80:8086/hls/39/index.m3u8
-广东卫视,http://119.123.78.80:8086/hls/44/index.m3u8
-广东新闻,http://119.123.78.80:8086/hls/45/index.m3u8
-广东影视,http://119.123.78.80:8086/hls/46/index.m3u8
-广东珠江,http://119.123.78.80:8086/hls/47/index.m3u8
-大湾区卫视,http://119.123.78.81:8086/hls/29/index.m3u8
-广东民生,http://119.123.78.81:8086/hls/39/index.m3u8
-广东卫视,http://119.123.78.81:8086/hls/44/index.m3u8
-广东新闻,http://119.123.78.81:8086/hls/45/index.m3u8
-广东影视,http://119.123.78.81:8086/hls/46/index.m3u8
-广东珠江,http://119.123.78.81:8086/hls/47/index.m3u8
 大湾区卫视,http://119.123.78.83:8086/hls/29/index.m3u8
 广东民生,http://119.123.78.83:8086/hls/39/index.m3u8
 广东卫视,http://119.123.78.83:8086/hls/44/index.m3u8
@@ -1213,6 +1214,36 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 五华综合,http://p2hs.vzan.com/slowlive/621139761151691240/live.m3u8
 清远文旅生活,http://zmylivestream.nfnews.com/zmy_slive/20811.m3u8
 怀集综合,https://www.zqhjtv.com/hls/hjzhpd.m3u8
+揭阳综合高清,http://8.134.175.232:4022/udp/239.77.0.229:5146
+揭阳生活高清,http://8.134.175.232:4022/udp/239.77.0.251:5146
+汕尾综合高清,http://8.134.175.232:4022/udp/239.77.0.25:5146
+汕尾生活高清,http://8.134.175.232:4022/udp/239.77.0.187:5146
+汕头综合高清,http://8.134.175.232:4022/udp/239.253.43.45:5146
+汕头生活高清,http://8.134.175.232:4022/udp/239.253.43.46:5146
+潮州综合高清,http://8.134.175.232:4022/udp/239.253.43.70:5146
+潮州民生高清,http://8.134.175.232:4022/udp/239.253.43.75:5146
+广东卫视高清,http://8.134.175.232:4022/udp/239.77.0.84:5146
+广东珠江高清,http://8.134.175.232:4022/udp/239.77.0.1:5146
+广东新闻高清,http://8.134.175.232:4022/udp/239.77.0.173:5146
+广东民生高清,http://8.134.175.232:4022/udp/239.77.0.225:5146
+经济科教高清,http://8.134.175.232:4022/udp/239.77.0.85:5146
+大湾区卫视高清,http://8.134.175.232:4022/udp/239.77.0.215:5146
+广东影视高清,http://8.134.175.232:4022/udp/239.77.0.217:5146
+揭阳综合高清,http://119.29.142.81:4022/udp/239.77.0.229:5146
+揭阳生活高清,http://119.29.142.81:4022/udp/239.77.0.251:5146
+汕尾综合高清,http://119.29.142.81:4022/udp/239.77.0.25:5146
+汕尾生活高清,http://119.29.142.81:4022/udp/239.77.0.187:5146
+汕头综合高清,http://119.29.142.81:4022/udp/239.253.43.45:5146
+汕头生活高清,http://119.29.142.81:4022/udp/239.253.43.46:5146
+潮州综合高清,http://119.29.142.81:4022/udp/239.253.43.70:5146
+潮州民生高清,http://119.29.142.81:4022/udp/239.253.43.75:5146
+广东卫视高清,http://119.29.142.81:4022/udp/239.77.0.84:5146
+广东珠江高清,http://119.29.142.81:4022/udp/239.77.0.1:5146
+广东新闻高清,http://119.29.142.81:4022/udp/239.77.0.173:5146
+广东民生高清,http://119.29.142.81:4022/udp/239.77.0.225:5146
+经济科教高清,http://119.29.142.81:4022/udp/239.77.0.85:5146
+大湾区卫视高清,http://119.29.142.81:4022/udp/239.77.0.215:5146
+广东影视高清,http://119.29.142.81:4022/udp/239.77.0.217:5146
 揭阳综合高清,http://pr.19760929.xyz:9688/udp/239.77.0.229:5146
 揭阳生活高清,http://pr.19760929.xyz:9688/udp/239.77.0.251:5146
 汕尾综合高清,http://pr.19760929.xyz:9688/udp/239.77.0.25:5146
@@ -1303,21 +1334,6 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 经济科教高清,http://www.yahao.host:4022/udp/239.77.0.85:5146
 大湾区卫视高清,http://www.yahao.host:4022/udp/239.77.0.215:5146
 广东影视高清,http://www.yahao.host:4022/udp/239.77.0.217:5146
-揭阳综合高清,http://rfx2018.55555.io:2345/udp/239.77.0.229:5146
-揭阳生活高清,http://rfx2018.55555.io:2345/udp/239.77.0.251:5146
-汕尾综合高清,http://rfx2018.55555.io:2345/udp/239.77.0.25:5146
-汕尾生活高清,http://rfx2018.55555.io:2345/udp/239.77.0.187:5146
-汕头综合高清,http://rfx2018.55555.io:2345/udp/239.253.43.45:5146
-汕头生活高清,http://rfx2018.55555.io:2345/udp/239.253.43.46:5146
-潮州综合高清,http://rfx2018.55555.io:2345/udp/239.253.43.70:5146
-潮州民生高清,http://rfx2018.55555.io:2345/udp/239.253.43.75:5146
-广东卫视高清,http://rfx2018.55555.io:2345/udp/239.77.0.84:5146
-广东珠江高清,http://rfx2018.55555.io:2345/udp/239.77.0.1:5146
-广东新闻高清,http://rfx2018.55555.io:2345/udp/239.77.0.173:5146
-广东民生高清,http://rfx2018.55555.io:2345/udp/239.77.0.225:5146
-经济科教高清,http://rfx2018.55555.io:2345/udp/239.77.0.85:5146
-大湾区卫视高清,http://rfx2018.55555.io:2345/udp/239.77.0.215:5146
-广东影视高清,http://rfx2018.55555.io:2345/udp/239.77.0.217:5146
 揭阳综合高清,http://gdyd.7259.cc.cd:4111/udp/239.77.0.229:5146
 揭阳生活高清,http://gdyd.7259.cc.cd:4111/udp/239.77.0.251:5146
 汕尾综合高清,http://gdyd.7259.cc.cd:4111/udp/239.77.0.25:5146
@@ -1363,21 +1379,6 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 经济科教高清,http://gdyd.7259.cc.cd:4013/udp/239.77.0.85:5146
 大湾区卫视高清,http://gdyd.7259.cc.cd:4013/udp/239.77.0.215:5146
 广东影视高清,http://gdyd.7259.cc.cd:4013/udp/239.77.0.217:5146
-揭阳综合高清,http://jiange.dns.navy:10001/udp/239.77.0.229:5146
-揭阳生活高清,http://jiange.dns.navy:10001/udp/239.77.0.251:5146
-汕尾综合高清,http://jiange.dns.navy:10001/udp/239.77.0.25:5146
-汕尾生活高清,http://jiange.dns.navy:10001/udp/239.77.0.187:5146
-汕头综合高清,http://jiange.dns.navy:10001/udp/239.253.43.45:5146
-汕头生活高清,http://jiange.dns.navy:10001/udp/239.253.43.46:5146
-潮州综合高清,http://jiange.dns.navy:10001/udp/239.253.43.70:5146
-潮州民生高清,http://jiange.dns.navy:10001/udp/239.253.43.75:5146
-广东卫视高清,http://jiange.dns.navy:10001/udp/239.77.0.84:5146
-广东珠江高清,http://jiange.dns.navy:10001/udp/239.77.0.1:5146
-广东新闻高清,http://jiange.dns.navy:10001/udp/239.77.0.173:5146
-广东民生高清,http://jiange.dns.navy:10001/udp/239.77.0.225:5146
-经济科教高清,http://jiange.dns.navy:10001/udp/239.77.0.85:5146
-大湾区卫视高清,http://jiange.dns.navy:10001/udp/239.77.0.215:5146
-广东影视高清,http://jiange.dns.navy:10001/udp/239.77.0.217:5146
 揭阳综合高清,http://wmh.wmh.ink:6633/udp/239.77.0.229:5146
 揭阳生活高清,http://wmh.wmh.ink:6633/udp/239.77.0.251:5146
 汕尾综合高清,http://wmh.wmh.ink:6633/udp/239.77.0.25:5146
@@ -1513,21 +1514,6 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 经济科教高清,http://bot22.top:19999/udp/239.77.0.85:5146
 大湾区卫视高清,http://bot22.top:19999/udp/239.77.0.215:5146
 广东影视高清,http://bot22.top:19999/udp/239.77.0.217:5146
-揭阳综合高清,http://xhzza.v6.navy:34040/udp/239.77.0.229:5146
-揭阳生活高清,http://xhzza.v6.navy:34040/udp/239.77.0.251:5146
-汕尾综合高清,http://xhzza.v6.navy:34040/udp/239.77.0.25:5146
-汕尾生活高清,http://xhzza.v6.navy:34040/udp/239.77.0.187:5146
-汕头综合高清,http://xhzza.v6.navy:34040/udp/239.253.43.45:5146
-汕头生活高清,http://xhzza.v6.navy:34040/udp/239.253.43.46:5146
-潮州综合高清,http://xhzza.v6.navy:34040/udp/239.253.43.70:5146
-潮州民生高清,http://xhzza.v6.navy:34040/udp/239.253.43.75:5146
-广东卫视高清,http://xhzza.v6.navy:34040/udp/239.77.0.84:5146
-广东珠江高清,http://xhzza.v6.navy:34040/udp/239.77.0.1:5146
-广东新闻高清,http://xhzza.v6.navy:34040/udp/239.77.0.173:5146
-广东民生高清,http://xhzza.v6.navy:34040/udp/239.77.0.225:5146
-经济科教高清,http://xhzza.v6.navy:34040/udp/239.77.0.85:5146
-大湾区卫视高清,http://xhzza.v6.navy:34040/udp/239.77.0.215:5146
-广东影视高清,http://xhzza.v6.navy:34040/udp/239.77.0.217:5146
 揭阳综合高清,http://yanshifen.top:8889/udp/239.77.0.229:5146
 揭阳生活高清,http://yanshifen.top:8889/udp/239.77.0.251:5146
 汕尾综合高清,http://yanshifen.top:8889/udp/239.77.0.25:5146
@@ -1558,21 +1544,6 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 经济科教高清,http://www.maomizi.cn:9527/udp/239.77.0.85:5146
 大湾区卫视高清,http://www.maomizi.cn:9527/udp/239.77.0.215:5146
 广东影视高清,http://www.maomizi.cn:9527/udp/239.77.0.217:5146
-揭阳综合高清,http://ruoshui.uno:30001/udp/239.77.0.229:5146
-揭阳生活高清,http://ruoshui.uno:30001/udp/239.77.0.251:5146
-汕尾综合高清,http://ruoshui.uno:30001/udp/239.77.0.25:5146
-汕尾生活高清,http://ruoshui.uno:30001/udp/239.77.0.187:5146
-汕头综合高清,http://ruoshui.uno:30001/udp/239.253.43.45:5146
-汕头生活高清,http://ruoshui.uno:30001/udp/239.253.43.46:5146
-潮州综合高清,http://ruoshui.uno:30001/udp/239.253.43.70:5146
-潮州民生高清,http://ruoshui.uno:30001/udp/239.253.43.75:5146
-广东卫视高清,http://ruoshui.uno:30001/udp/239.77.0.84:5146
-广东珠江高清,http://ruoshui.uno:30001/udp/239.77.0.1:5146
-广东新闻高清,http://ruoshui.uno:30001/udp/239.77.0.173:5146
-广东民生高清,http://ruoshui.uno:30001/udp/239.77.0.225:5146
-经济科教高清,http://ruoshui.uno:30001/udp/239.77.0.85:5146
-大湾区卫视高清,http://ruoshui.uno:30001/udp/239.77.0.215:5146
-广东影视高清,http://ruoshui.uno:30001/udp/239.77.0.217:5146
 揭阳综合高清,http://61.145.188.90:50055/udp/239.77.0.229:5146
 揭阳生活高清,http://61.145.188.90:50055/udp/239.77.0.251:5146
 汕尾综合高清,http://61.145.188.90:50055/udp/239.77.0.25:5146
