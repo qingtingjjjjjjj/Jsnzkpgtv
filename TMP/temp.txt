@@ -68,53 +68,6 @@ CGTN阿语,http://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTef
 山西卫视,http://207.56.13.146:81/cdnlive/sxws.m3u8
 青海卫视,http://207.56.13.146:81/cdnlive/qhws.m3u8
 宁夏卫视,http://207.56.13.146:81/cdnlive/nxws.m3u8
-港台频道,#genre#
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
-无线新闻,http://cdn6.163189.xyz/163189/wxxw
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-NOW新闻,http://cdn.163189.xyz/163189/now
-CH5,http://cdn6.163189.xyz/163189/ch5
-CH8,http://cdn6.163189.xyz/163189/ch8
-CHU,http://cdn6.163189.xyz/163189/chu
-翡翠台,https://o11.163189.xyz/stream/tvb/fct/
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-八度空间,http://cdn6.163189.xyz/163189/8tv
-龙华偶像,http://cdn8.163189.xyz/163189/lhox
-龙华日韩,http://cdn8.163189.xyz/163189/lhrh
-龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
-龙华电影,https://cdn8.163189.xyz/163189/lhdy
-龙华经典,https://cdn8.163189.xyz/163189/lhjd
-澳视澳门,http://cdn6.163189.xyz/163189/asam
-澳门综艺,http://cdn6.163189.xyz/163189/amzy
-澳门体育,http://cdn6.163189.xyz/163189/amty
-澳门莲花,http://cdn6.163189.xyz/163189/amlh
-重温经典,http://cdn6.163189.xyz/163189/cwjd
-TVB武侠,http://cdn6.163189.xyz/163189/yzwx
-TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
-千禧经典,https://o11.163189.xyz/stream/live/tvbc/
-天映频道,https://o11.163189.xyz/stream/live/typd/
-HOY77,http://cdn6.163189.xyz/163189/hoy
-HOY78,http://cdn.163189.xyz/163189/hoy78
-RTHK 32,http://cdn.163189.xyz/163189/rthk32
-ViuTV,https://cdn.163189.xyz/163189/viu
-邵氏动作,http://feilong123.vip/409990236/tv.php?id=ssdz
-邵氏电影,http://feilong123.vip/409990236/tv.php?id=ssdy
-邵氏武侠,http://feilong123.vip/409990236/tv.php?id=sswx
-邵氏喜剧,http://feilong123.vip/409990236/tv.php?id=ssxj
-HBO喜剧,http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
-HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
-CN卡通,http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
-LMN,http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
-HBO精选,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
-Cinemax精选,http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
-Cinemax,http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
-HBO王牌,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
 地方频道,#genre#
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 看东方4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
@@ -127,13 +80,10 @@ HBO王牌,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
 少儿频道,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 之江纪录,http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
-广州影视,http://r.jdshipin.com/sFw4S
 广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 苏州娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁文旅,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
@@ -151,7 +101,6 @@ HBO王牌,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
 文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=87c5daf4f4c3a09fb4e4cce0843d4a1c&wsTime=1770400669
 武术频道,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=dfcdc24ac8a49ebd886337dc5cdc1568&wsTime=1770400669
 河南曲艺,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=3f9e1d6e5c78cea99a876ce40f13202b&wsTime=1770400669
-移动戏曲,https://dxtx.hntv.tv/live/ydxq.m3u8?txSecret=caad41b421fdab7fa0dfbaf96f59f9f0&txTime=7B2E515F&wsSecret=b2484c40280981b4050b148e22943b0e&wsTime=1770400669
 国际,#genre#
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 GB News,https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
