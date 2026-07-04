@@ -544,72 +544,61 @@ Play,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ca5nc43c77u
 I'll Do It,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ch9m0jjc77u31dq1i4b0&ratio=720p&line=0
 touch,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cmhn50rc77ucfc970np0&ratio=720p&line=0
 closer,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c6c60frc77u7j9o2ecs0&ratio=720p&line=0
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/
-翡翠台,https://cdn10.163189.xyz/163189/fct/
-翡翠台广电,http://cdn6.163189.xyz/163189/fct
-翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
-无线新闻台,http://cdn6.163189.xyz/163189/wxxw
-NOW新闻台,http://cdn.163189.xyz/163189/now
-TVB PLUS,http://o11.163189.xyz/stream/tvb/tvbp/
-TVB PLUS,https://cdn10.163189.xyz/163189/tvbp/
-明珠台,http://o11.163189.xyz/stream/tvb/mzt/
-明珠台,https://cdn10.163189.xyz/163189/mzt/
-HOYTV,http://cdn6.163189.xyz/163189/hoy
-HOYTV,http://cdn.163189.xyz/163189/hoy
-HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
-HOY资讯台,http://cdn.163189.xyz/163189/hoy78
-VIUTV,https://cdn10.163189.xyz/163189/viu/
-VIUTVSIX,https://cdn10.163189.xyz/163189/viu6/
-RTHK 31,http://cdn.163189.xyz/163189/rthk31
-RTHK 32,http://cdn.163189.xyz/163189/rthk32
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-CCTV1港澳版,http://cdn6.163189.xyz/163189/cctv1
-五星体育,https://cdn15.163189.xyz/163189/wxty
-重温经典,http://cdn6.163189.xyz/163189/cwjd
-广东珠江,http://cdn2.163189.xyz/163189/gdzj
-澳视澳门,http://cdn6.163189.xyz/163189/asam
-澳视卫星,http://cdn6.163189.xyz/163189/as
-澳门体育,http://cdn6.163189.xyz/163189/amty
-澳门综艺,http://cdn6.163189.xyz/163189/amzy
-澳门莲花,http://cdn6.163189.xyz/163189/amlh
-华丽翡翠台,http://cdn6.163189.xyz/163189/jade
-翡翠一台(TVB1),http://cdn6.163189.xyz/163189/tvb1
-TVBJ,http://cdn6.163189.xyz/163189/j1
-TVB翡翠剧集台,http://cdn6.163189.xyz/163189/tvbd
-TVB亚洲武侠,http://cdn6.163189.xyz/163189/yzwx
-娱乐新闻台,http://cdn6.163189.xyz/163189/ylxw
-TVB星河,http://cdn6.163189.xyz/163189/tvbxh
-TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
-TVB星河,https://cdn10.163189.xyz/163189/xinghe/
-黄金华剧台,https://cdn10.163189.xyz/163189/hjhjt/
-天映新加坡,https://cdn10.163189.xyz/163189/typd/
-天映经典频道,https://cdn10.163189.xyz/163189/ccm/
-千禧经典台,http://o11.163189.xyz/stream/live/tvbc/
-天映频道,http://o11.163189.xyz/stream/live/typd/
-天映经典频道,http://o11.163189.xyz/stream/live/ccm/
-龙华电影,http://cdn8.163189.xyz/163189/lhdy
-龙华经典台,http://cdn8.163189.xyz/163189/lhjd
-龙华偶像,http://cdn8.163189.xyz/163189/lhox
-龙华日韩台,http://cdn8.163189.xyz/163189/lhrh
-龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
-金光布袋戏,http://o11.163189.xyz/stream/live/jgbdx/
-ASTRO AOD,http://o11.163189.xyz/stream/live/aod/
-ASTRO AEC,http://o11.163189.xyz/stream/live/aec/
-ASTRO 欢喜台,http://o11.163189.xyz/stream/live/hxt/
-IQIYI,http://o11.163189.xyz/stream/live/iqiyi/
-八度空间,http://cdn6.163189.xyz/163189/8tv
-CHANNEL 5,http://cdn6.163189.xyz/163189/ch5
-CHANNEL 8,http://cdn6.163189.xyz/163189/ch8
-CHANNEL U,http://cdn6.163189.xyz/163189/chu
-纬来电影台,https://smt.1678520.xyz/163189/wldy
-纬来戏剧台,https://smt.1678520.xyz/163189/wlxj
-纬来体育台,https://smt.1678520.xyz/163189/wlty
-龙祥时代,https://smt.1678520.xyz/163189/lxsd
-东森电影,https://smt.1678520.xyz/163189/dsdy
-东森戏剧,https://smt.1678520.xyz/163189/dsxj
-东森洋片,https://smt.1678520.xyz/163189/dsyp
+翡翠台,http://tianlun.f3322.net:19991/stream/channelid/715595266?profile=matroska
+翡翠台高清,http://tianlun.f3322.net:19991/stream/channelid/171604664?profile=matroska
+明珠台,http://zwg6818.vicp.net:28000/bysid/2.mpeg
+TVB Plus,http://zwg6818.vicp.net:28000/bysid/82
+無綫新聞台,http://zwg6818.vicp.net:28000/bysid/83
+鳳凰衛視香港台,http://zwg6818.vicp.net:28000/bysid/85
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+智林體育,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+鳳凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVB黃金華劇,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVB翡翠(馬來),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+千禧經典,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVB娛樂新聞,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVB翡翠劇集,http://iptv.4666888.xyz/iptv2A.php?id=33
+澳視澳門,http://iptv.4666888.xyz/iptv2A.php?id=41
+中國電影,http://iptv.4666888.xyz/iptv2A.php?id=61
+TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
+非凡新聞,http://iptv.4666888.xyz/iptv2A.php?id=44
+民視,http://iptv.4666888.xyz/iptv2A.php?id=55
+華藝中文,http://iptv.4666888.xyz/iptv2A.php?id=37
+愛奇藝,http://iptv.4666888.xyz/iptv2A.php?id=21
+靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
+靖天電影,http://iptv.4666888.xyz/iptv2A.php?id=56
+東森電影,http://iptv.4666888.xyz/iptv2A.php?id=48
+緯來電影,http://iptv.4666888.xyz/iptv2A.php?id=54
+龍華電影,http://iptv.4666888.xyz/iptv2A.php?id=45
+龍華洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
+風雲恐怖電影,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TV兒童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
+金光布袋戲,http://iptv.4666888.xyz/iptv2A.php?id=38
+民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
+民視影劇,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+臺視綜合,http://iptv.4666888.xyz/iptv2A.php?id=51
+東森綜合2,http://iptv.4666888.xyz/iptv2A.php?id=58
+八度空間,http://iptv.4666888.xyz/iptv2A.php?id=52
+韓流美食料理秀,http://iptv.4666888.xyz/iptv2A.php?id=63
+娛樂百分百,http://iptv.4666888.xyz/iptv2A.php?id=64
+綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
@@ -619,27 +608,10 @@ TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 娱乐新闻,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
-明珠台,http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
-TVB Plus,http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
-无线新闻,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
-TVB星河,http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
-华丽翡翠台,http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
-ViuTV,http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
-ViuTVsix,http://push.cdn1.hls123.de:8080/streams/5lthhpr4cx3/index.m3u8
-Now新闻台,http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
-HOY TV,http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
-HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
-凤凰中文,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
-凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
-凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
-澳视澳门,http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
-澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
-澳门莲花,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
-重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
 咪咕频道,https://live.666666.zip/migu/1.m3u8
 CCTV5,https://live.666666.zip/stream/20233432.m3u8
 CCTV5,https://live.666666.zip/cctv/5.m3u8
+澳门体育,http://cdn6.163189.xyz/163189/amty
 ELTA体育1,https://live.666666.zip/stream/16697898.m3u8
 ELTA体育1,https://live.666666.zip/elta/index.m3u8
 ELTA体育2,https://live.666666.zip/stream/28361755.m3u8
@@ -733,55 +705,6 @@ SUPER獎門人http://live-agora.comein.cn/live/cx_36a6186e845f6a8f55831c387db3f3
 凤凰香港台,https://flv-play.clouda.com/live/fhxg-s6ZqbJPCkU54D3ojHvlJm4el9wbnzF1VJ6J0oPumsZIfuPtYq1enmIhy43vWcUaaPf4U2xRRWNGOXX5BiusMXxxQ.flv
 凤凰资讯台,https://flv-play.clouda.com/live/fhzx-gCDIOsNFJ7DX5OI8hsebeQNHPm66LAMZgmIcGYcfIIEzXWKCVG2cQgbZdRq2aUVqJR.flv
 凤凰中文台,https://flv-play.clouda.com/live/fhzw-6zSJoUiicyU3ovDlMvflVRLQlVCMRCARnyJ0NPlfcs3eWJNeJSDRMAz4VgeQV3Diy6.flv
-SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
-SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
-astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
-TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
-智林體育,http://iptv.4666888.xyz/iptv2A.php?id=5
-JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
-SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
-鳳凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-TVB黃金華劇,http://iptv.4666888.xyz/iptv2A.php?id=34
-TVB翡翠(馬來),http://iptv.4666888.xyz/iptv2A.php?id=28
-TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
-TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
-千禧經典,http://iptv.4666888.xyz/iptv2A.php?id=22
-HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
-TVB-獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
-TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
-RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
-TVB娛樂新聞,http://iptv.4666888.xyz/iptv2A.php?id=36
-MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
-TVB翡翠劇集,http://iptv.4666888.xyz/iptv2A.php?id=33
-澳視澳門,http://iptv.4666888.xyz/iptv2A.php?id=41
-中國電影,http://iptv.4666888.xyz/iptv2A.php?id=61
-TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
-非凡新聞,http://iptv.4666888.xyz/iptv2A.php?id=44
-民視,http://iptv.4666888.xyz/iptv2A.php?id=55
-華藝中文,http://iptv.4666888.xyz/iptv2A.php?id=37
-愛奇藝,http://iptv.4666888.xyz/iptv2A.php?id=21
-靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
-靖天電影,http://iptv.4666888.xyz/iptv2A.php?id=56
-東森電影,http://iptv.4666888.xyz/iptv2A.php?id=48
-緯來電影,http://iptv.4666888.xyz/iptv2A.php?id=54
-龍華電影,http://iptv.4666888.xyz/iptv2A.php?id=45
-龍華洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
-風雲恐怖電影,http://iptv.4666888.xyz/iptv2A.php?id=59
-ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
-梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
-Duck TV兒童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
-MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
-金光布袋戲,http://iptv.4666888.xyz/iptv2A.php?id=38
-民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
-民視影劇,http://iptv.4666888.xyz/iptv2A.php?id=53
-TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
-臺視綜合,http://iptv.4666888.xyz/iptv2A.php?id=51
-東森綜合2,http://iptv.4666888.xyz/iptv2A.php?id=58
-八度空間,http://iptv.4666888.xyz/iptv2A.php?id=52
-韓流美食料理秀,http://iptv.4666888.xyz/iptv2A.php?id=63
-娛樂百分百,http://iptv.4666888.xyz/iptv2A.php?id=64
-綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
 COZI TV SD,http://108.181.20.255:27347/livehttpplay?channel_id=23000
 TELEXITOS SD,http://108.181.20.255:27347/livehttpplay?channel_id=23001
 TELEMUNDO WEST HD,http://108.181.20.255:27347/livehttpplay?channel_id=23002
@@ -4616,12 +4539,21 @@ NTR的救贖-架乃由羅,https://t33.cdn2020.com/video/m3u8/2024/08/25/cf8dfb68
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$官网
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
 镜新闻台,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
 中天新闻,https://my5353.com/ztxw#rtmp://ai.unispc.com/live/nb-py-ztxw
+TVB PLUS,http://o11.163189.xyz/stream/tvb/tvbp/
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 华丽翡翠(新加坡),http://o11.163189.xyz/stream/live/jade/
+Now新闻 http://cdn.163189.xyz/163189/now
+HOY77,http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
+HOY78,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
+ViuTV,https://cdn10.163189.xyz/163189/viu/
 TVB DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVB千禧经典,https://o11.163189.xyz/stream/live/tvbc/#https://smt.1678520.xyz/smt3.2.5.php?id=Tvbclassic
@@ -4632,6 +4564,7 @@ Astro AOD,https://o11.163189.xyz/stream/live/aod/
 香港卫视频道,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港C+_-频道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 /
+翡翠台,http://cdn6.163189.xyz/163189/fct
 无线新闻,http://r.jdshipin.com/CkuBd
 明珠台,http://r.jdshipin.com/ZQ4kN
 TVB Plus,http://r.jdshipin.com/ndGgS
@@ -4642,10 +4575,12 @@ TVB星河,http://r.jdshipin.com/sXuuD
 ViuTV,http://r.jdshipin.com/vSJvl
 凤凰香港,http://r.jdshipin.com/NfC0f
 澳视澳门,http://r.jdshipin.com/n2YZI
+澳门莲花,http://cdn6.163189.xyz/163189/amlh
 HOY77,http://r.jdshipin.com/sFw4S
 澳视卫星,http://r.jdshipin.com/QFhCq
 广东珠江,http://r.jdshipin.com/sE5vO
 广州综合,http://r.jdshipin.com/snhya
+广东珠江备,http://cdn2.163189.xyz/163189/gdzj
 海峡卫视,http://r.jdshipin.com/WtYt3
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/qrfbg
@@ -4678,7 +4613,23 @@ Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+凤凰中文,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
+凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
+凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
+翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
 翡翠台,http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
+明珠台,http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
+TVB Plus,http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
+无线新闻,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
+TVB星河,http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
+华丽翡翠台,http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
+ViuTV,http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
+ViuTVsix,http://push.cdn1.hls123.de:8080/streams/5lthhpr4cx3/index.m3u8
+Now新闻台,http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
+澳视澳门,http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
+澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
+澳门莲花,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
+重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
 翡翠台,https://rtmp.play.live.tieba.com/live/DwFQG0j26sdShfv9TETFGOHDMhOZNJdCW9pDTHlOHS6xkOIqYjvSWJdZFnXpMTG5pRLZC4YywdrJD9ZjngXAdwYF.flv
 无线新闻,https://rtmp.play.live.tieba.com/live/zaNAD4IWI45hM2InUxuW7Y3sHrPehS5t8MuVmUEYGSG42Wqe5l0AwVPihxoRjBqvuPBbXGEUuQzGvlMUyD1llbYa.flv
 TVB PLUS ,https://rtmp.play.live.tieba.com/live/IrYNUBAIZfBSRtoPy8yr3vDIxdFKn9nc4slBW93ipYXzxmWFYvYepSDH8hpyQSLEvQ409AVRFN3p9HUuo3325yIo.flv
