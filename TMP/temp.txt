@@ -28,7 +28,7 @@ CCTV17,http://60.10.139.113:8801/hls/98/index.m3u8
 视文化精品,http://60.10.139.113:8801/hls/80/index.m3u8
 兵器科技,http://60.10.139.113:8801/hls/72/index.m3u8
 世界地理,http://60.10.139.113:8801/hls/73/index.m3u8
-卫生健康,http://207.56.13.146:81/cdnlive/wsjk.m3u8
+卫生健康,http://192.151.150.154/live/wsjk.m3u8
 央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
 CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN纪录,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
@@ -70,11 +70,12 @@ CGTN阿语,http://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTef
 海南卫视,http://207.56.13.146:81/cdnlive/lyws.m3u8
 山西卫视,http://192.151.150.154/live/sxwshd.m3u8
 青海卫视,http://207.56.13.146:81/cdnlive/qhws.m3u8
+宁夏卫视,http://192.151.150.154/live/nxws.m3u8
+三沙卫视,http://192.151.150.154/live/ssws.m3u8
 港台频道,#genre#
 凤凰中文,https://flv-play.clouda.com/live/fhzw-6zSJoUiicyU3ovDlMvflVRLQlVCMRCARnyJ0NPlfcs3eWJNeJSDRMAz4VgeQV3Diy6.flv
 凤凰资讯,https://flv-play.clouda.com/live/fhzx-gCDIOsNFJ7DX5OI8hsebeQNHPm66LAMZgmIcGYcfIIEzXWKCVG2cQgbZdRq2aUVqJR.flv
 凤凰香港,https://flv-play.clouda.com/live/fhxg-s6ZqbJPCkU54D3ojHvlJm4el9wbnzF1VJ6J0oPumsZIfuPtYq1enmIhy43vWcUaaPf4U2xRRWNGOXX5BiusMXxxQ.flv
-香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 民视新闻,http://rihou.cc:555/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB
 公视高清,http://211.72.174.95:8116/0.ts
 中视高清,http://220.135.241.47:8301/0.ts
@@ -86,13 +87,12 @@ CGTN阿语,http://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTef
 台视财经,http://220.135.241.47:8315/0.ts
 HOY77,https://flv-play.clouda.com/live/77-5pHKgr2LragVAykZ2KQfNXrxywsd14D5fFlW6HOiMWA8gsArsvtCvd0fsAXceyzncRxVqOW0NmLwnr1cbAK5B9aH.flv
 HOY78,https://flv-play.clouda.com/live/78-e4PtDaF6AQrXOW1HJdARYjkmCofuwG9ji2PmlEksbi2eNlD9bKYlXzr8qIRPHOojTPZVOkFUeIhv3IurfpWHPsRv.flv
-TVB星河,https://flv-play.clouda.com/live/13-ut3RFdJxRGEIEn2AMMPEkKK5TfHBIgvlqwcjFuAItD6Y2IgzaDEznMF3EswnXWDb4O.flv
-环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 Taiwan+,https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
 地方频道,#genre#
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 看东方4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+象视界,http://1.94.31.214/php/hntv.php?id=xsj
 钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 教科影院,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
