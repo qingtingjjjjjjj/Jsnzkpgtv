@@ -12,6 +12,7 @@ rihou,#genre#
 粤🔊07咪江忠德,http://rihou.cc:555/tv/07世杯江忠德
 粤🔊07红丁伟杰,http://rihou.cc:555/tv/07世杯丁伟杰
 粤🔊07红丁伟杰,
+粤🔊07Now4k体,http://rihou.cc:555/tv/[At|]Now4k体
 粤🔊07Now体育,http://rihou.cc:555/tv/[At|]Now体育
 粤🔊07澳门体育,http://rihou.cc:555/tv/[At|]澳门体育
 国🔊07ELta体育,http://rihou.cc:555/tv/[At|]ELta体育
