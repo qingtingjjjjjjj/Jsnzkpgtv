@@ -222,7 +222,11 @@ Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
 无线翡翠4Ktv,http://rihou.cc:555/tv/[Pd]无线翡4K
 无线华丽Pdtv,http://rihou.cc:555/tv/[Pd]无线华丽
 无线明珠Pdtv,http://rihou.cc:555/tv/[Pd]无线明珠
+无线翡剧Pdtv,http://rihou.cc:555/tv/[Pd]无线翡剧
+无线娱乐Pdtv,http://rihou.cc:555/tv/[Pd]无线娱乐|
+无线娱乐Pdtv,http://rihou.cc:555/tv/[Pd]无线娱乐
 无线星河Pdtv,http://rihou.cc:555/tv/[Pd]无线星河
+无线经典Pdtv,http://rihou.cc:555/tv/[Pd]无线经典
 无线功夫Pdtv,http://rihou.cc:555/tv/[Pd]无线功夫
 澳视澳门Pdtv,http://rihou.cc:555/tv/[Pd]澳视澳门
 澳视卫星Pdtv,http://rihou.cc:555/tv/[Pd]澳视卫星
@@ -236,10 +240,11 @@ Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
 龙华偶像Pdtv,http://rihou.cc:555/tv/[Pd]龙华偶像
 龙华日韩Pdtv,http://rihou.cc:555/tv/[Pd]龙华日韩
 龙华戏剧Pdtv,http://rihou.cc:555/tv/[Pd]龙华戏剧
+八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
 CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
 CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
-八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
+astroaodPdtv,http://rihou.cc:555/tv/[Pd]astroaod
 Plus综合双语,https://o11.163189.xyz/stream/tvb/tvbp/
 无线翡翠4k音,https://o11.163189.xyz/stream/tvb/fct4k/
 无线华丽双语,https://o11.163189.xyz/stream/live/hlt/
@@ -508,8 +513,8 @@ WWE_格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 经典音乐频道,https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 ⬇️全天直播⬇️,video://http://rihou.cc:555/tv/网页库播
 音乐播库抖播,video://http://rihou.cc:555/tv/网页播库
-音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖08
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖08
+音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖10
+音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖10
 翡翠音乐抖播,video://http://rihou.cc:555/tv/网页翡翠
 怀旧音乐抖播,video://http://rihou.cc:555/tv/网页怀音
 怀旧粤语抖播,video://http://rihou.cc:555/tv/网页怀粤
