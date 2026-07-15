@@ -25,6 +25,8 @@ rihou,#genre#
 国🔊16央视评述,http://rihou.cc:555/tv/16世杯央视频
 国🔊16团哥评述,http://rihou.cc:555/tv/16世杯团哥述
 国🔊16真实评述,http://rihou.cc:555/tv/16世杯真实述
+国🔊18东评述,http://rihou.cc:555/tv/18东北超评述
+国🔊18东述评,http://rihou.cc:555/tv/18东北超述评
 粤🔊19咪咕旁述,http://rihou.cc:555/tv/19世杯咪旁述
 国🔊19咪咕评述,http://rihou.cc:555/tv/19世杯咪评述
 粤🔊20咪咕旁述,http://rihou.cc:555/tv/20世杯咪旁述
