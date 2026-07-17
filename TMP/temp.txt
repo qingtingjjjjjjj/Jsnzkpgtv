@@ -1,35 +1,4 @@
 央视频道,#genre#
-CCTV1,http://60.10.139.113:8801/hls/1/index.m3u8
-CCTV2,http://60.10.139.113:8801/hls/2/index.m3u8
-CCTV3,http://60.10.139.113:8801/hls/3/index.m3u8
-CCTV4,http://60.10.139.113:8801/hls/4/index.m3u8
-CCTV5,http://60.10.139.113:8801/hls/5/index.m3u8
-CCTV6,http://60.10.139.113:8801/hls/6/index.m3u8
-CCTV7,http://60.10.139.113:8801/hls/7/index.m3u8
-CCTV8,http://60.10.139.113:8801/hls/8/index.m3u8
-CCTV9,http://60.10.139.113:8801/hls/9/index.m3u8
-CCTV10,http://60.10.139.113:8801/hls/10/index.m3u8
-CCTV11,http://60.10.139.113:8801/hls/96/index.m3u8
-CCTV12,http://60.10.139.113:8801/hls/11/index.m3u8
-CCTV13,http://60.10.139.113:8801/hls/12/index.m3u8
-CCTV14,http://60.10.139.113:8801/hls/13/index.m3u8
-CCTV15,http://60.10.139.113:8801/hls/97/index.m3u8
-CCTV16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
-CCTV17,http://60.10.139.113:8801/hls/98/index.m3u8
-体育赛事,http://60.10.139.113:8801/hls/15/index.m3u8
-电视指南,http://60.10.139.113:8801/hls/64/index.m3u8
-第一剧场,http://60.10.139.113:8801/hls/65/index.m3u8
-风云剧场,http://60.10.139.113:8801/hls/66/index.m3u8
-怀旧剧场,http://60.10.139.113:8801/hls/67/index.m3u8
-风云音乐,http://60.10.139.113:8801/hls/68/index.m3u8
-风云足球,http://60.10.139.113:8801/hls/69/index.m3u8
-高尔夫网球,http://60.10.139.113:8801/hls/70/index.m3u8
-女性时尚,http://60.10.139.113:8801/hls/79/index.m3u8
-视文化精品,http://60.10.139.113:8801/hls/80/index.m3u8
-兵器科技,http://60.10.139.113:8801/hls/72/index.m3u8
-世界地理,http://60.10.139.113:8801/hls/73/index.m3u8
-卫生健康,http://192.151.150.154/live/wsjk.m3u8
-央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
 CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN纪录,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGTN财经,https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/index_6.m3u8
@@ -37,62 +6,20 @@ CGTN西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LST
 CGTN法语,http://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd.m3u8
 CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 CGTN阿语,http://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd.m3u8
-卫视频道,#genre#
-湖南卫视,http://60.10.139.113:8801/hls/17/index.m3u8
-浙江卫视,http://60.10.139.113:8801/hls/18/index.m3u8
-江苏卫视,http://60.10.139.113:8801/hls/19/index.m3u8
-北京卫视,http://60.10.139.113:8801/hls/20/index.m3u8
-东方卫视,http://60.10.139.113:8801/hls/22/index.m3u8
-安徽卫视,http://60.10.139.113:8801/hls/99/index.m3u8
-天津卫视,http://60.10.139.113:8801/hls/23/index.m3u8
-河北卫视,http://60.10.139.113:8801/hls/16/index.m3u8
-山东卫视,http://60.10.139.113:8801/hls/25/index.m3u8
-河南卫视,http://60.10.139.113:8801/hls/32/index.m3u8
-江西卫视,http://60.10.139.113:8801/hls/37/index.m3u8
-湖北卫视,http://60.10.139.113:8801/hls/29/index.m3u8
-四川卫视,http://60.10.139.113:8801/hls/30/index.m3u8
-重庆卫视,http://60.10.139.113:8801/hls/31/index.m3u8
-东南卫视,http://60.10.139.113:8801/hls/21/index.m3u8
-广东卫视,http://60.10.139.113:8801/hls/26/index.m3u8
-深圳卫视,http://60.10.139.113:8801/hls/24/index.m3u8
-广西卫视,http://60.10.139.113:8801/hls/52/index.m3u8
-吉林卫视,http://60.10.139.113:8801/hls/38/index.m3u8
-辽宁卫视,http://60.10.139.113:8801/hls/28/index.m3u8
-黑龙江卫视,http://60.10.139.113:8801/hls/27/index.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws#http://lxajh.top/tv/hn.php?id=hnws
-贵州卫视,http://60.10.139.113:8801/hls/36/index.m3u8
-西藏卫视,http://207.56.13.146:81/cdnlive/xzws.m3u8
-新疆卫视,http://207.56.13.146:81/cdnlive/xjws.m3u8
-内蒙古卫视,http://207.56.13.146:81/cdnlive/nmgws.m3u8
-甘肃卫视,http://207.56.13.146:81/cdnlive/gsws.m3u8
-陕西卫视,http://207.56.13.146:81/cdnlive/snws.m3u8
-云南卫视,http://207.56.13.146:81/cdnlive/ynws.m3u8
-海南卫视,http://207.56.13.146:81/cdnlive/lyws.m3u8
-山西卫视,http://192.151.150.154/live/sxwshd.m3u8
-青海卫视,http://207.56.13.146:81/cdnlive/qhws.m3u8
-宁夏卫视,http://192.151.150.154/live/nxws.m3u8
-三沙卫视,http://192.151.150.154/live/ssws.m3u8
 港台频道,#genre#
-凤凰中文,https://flv-play.clouda.com/live/fhzw-6zSJoUiicyU3ovDlMvflVRLQlVCMRCARnyJ0NPlfcs3eWJNeJSDRMAz4VgeQV3Diy6.flv
-凤凰资讯,https://flv-play.clouda.com/live/fhzx-gCDIOsNFJ7DX5OI8hsebeQNHPm66LAMZgmIcGYcfIIEzXWKCVG2cQgbZdRq2aUVqJR.flv
-凤凰香港,https://flv-play.clouda.com/live/fhxg-s6ZqbJPCkU54D3ojHvlJm4el9wbnzF1VJ6J0oPumsZIfuPtYq1enmIhy43vWcUaaPf4U2xRRWNGOXX5BiusMXxxQ.flv
 民视新闻,http://rihou.cc:555/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB
 公视高清,http://211.72.174.95:8116/0.ts
 中视高清,http://220.135.241.47:8301/0.ts
 民视高清,http://211.72.174.95:8115/0.ts
 华视高清,http://220.135.241.47:8317/0.ts
 台视高清,http://211.72.174.95:8112/0.ts
-无线新闻,https://rtmp.play.live.tieba.com/live//WX-XTncUyverrEAumydD9rS3sSHJA0JA8ufjCwh6JJtemBozIX1d3zr5ItgD7PuFTwAXCKEmeqeVnwpQFD2g3PEGDgF.flv
 华视教体,http://220.135.241.47:8318/0.ts
 台视财经,http://220.135.241.47:8315/0.ts
-HOY77,https://flv-play.clouda.com/live/77-5pHKgr2LragVAykZ2KQfNXrxywsd14D5fFlW6HOiMWA8gsArsvtCvd0fsAXceyzncRxVqOW0NmLwnr1cbAK5B9aH.flv
-HOY78,https://flv-play.clouda.com/live/78-e4PtDaF6AQrXOW1HJdARYjkmCofuwG9ji2PmlEksbi2eNlD9bKYlXzr8qIRPHOojTPZVOkFUeIhv3IurfpWHPsRv.flv
 Taiwan+,https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
 地方频道,#genre#
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 看东方4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
-象视界,http://1.94.31.214/php/hntv.php?id=xsj
 钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 教科影院,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
@@ -137,14 +64,8 @@ NBC News Now,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDI
 One American News,https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
 Discovery Channel,http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 Disney XD,http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-Sky Sports Football,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2188.ts
-Sky Sports News,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts
-Sky Sports Premier League,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts
-Sportsnet 360,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3073.ts
 Big Ten Network,http://23.237.104.106:8080/USA_BTN/index.m3u8
 Trace Sport Stars,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-HBO,http://23.237.104.106:8080/USA_HBO/index.m3u8
-HBO 2,http://23.237.104.106:8080/USA_HBO2/index.m3u8
 Lifetime Movie Network,http://23.237.104.106:8080/USA_LMN/index.m3u8
 National Geographic,http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 Cartoon Network,http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
