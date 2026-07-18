@@ -1,11 +1,6 @@
 央视频道,#genre#
 CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN纪录,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-CGTN财经,https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/index_6.m3u8
-CGTN西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-CGTN法语,http://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd.m3u8
-CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-CGTN阿语,http://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd.m3u8
 港台频道,#genre#
 民视新闻,http://rihou.cc:555/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB
 公视高清,http://211.72.174.95:8116/0.ts
@@ -49,6 +44,13 @@ Taiwan+,https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/62822514
 文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=87c5daf4f4c3a09fb4e4cce0843d4a1c&wsTime=1770400669
 武术频道,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=dfcdc24ac8a49ebd886337dc5cdc1568&wsTime=1770400669
 河南曲艺,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=3f9e1d6e5c78cea99a876ce40f13202b&wsTime=1770400669
+绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+上虞综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 国际,#genre#
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
