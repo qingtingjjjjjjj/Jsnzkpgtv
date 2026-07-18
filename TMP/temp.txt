@@ -62,30 +62,19 @@ NEWSMAX,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 NBC News Now,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 One American News,https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
-Discovery Channel,http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-Disney XD,http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-Big Ten Network,http://23.237.104.106:8080/USA_BTN/index.m3u8
 Trace Sport Stars,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-Lifetime Movie Network,http://23.237.104.106:8080/USA_LMN/index.m3u8
-National Geographic,http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-Cartoon Network,http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-CMT,http://23.237.104.106:8080/USA_CMT/index.m3u8
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 Newsy,https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
 Redbull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 HollyWire,https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
-Comedy Central,http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 MovieSphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-AMC,http://23.239.31.26:8989/amc/index.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-Animal Planet,http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 Action Hollywood,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 Mytime Movie,https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 BBC Earth,https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 The First,https://thefirst-oando.amagi.tv/playlist.m3u8
 Kartoon Channel,https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
-WE TV,http://23.237.104.106:8080/USA_WE_TV/mpegts
 ION Plus,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 History Hit,https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
 Outdoor Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
@@ -123,5 +112,3 @@ Thrillers,https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649b
 Top Movies,https://top-movies-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/8b530802-f923-43a1-8496-e871276a745f/4.m3u8
 Reality,https://reality-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/228208ef-d17f-4825-a278-eccf505de378/4.m3u8
 Family,https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8
-MTV,http://23.237.104.106:8080/USA_MTV/index.m3u8
-ACC Network,http://23.237.104.106:8080/USA_ACCN/mpegts
