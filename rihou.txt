@@ -1,4 +1,10 @@
 rihou,#genre#
+⬇️世界杯决赛+半决赛赛事回放⬇️,http://rihou.cc:555/tv/t
+冠军赛-西班牙🆚阿根廷,http://rihou.cc:555/tv/v
+粤🔊20鞋佬回放,http://rihou.cc:555/tv/20鞋佬回放述
+粤🔊19鞋佬回放,http://rihou.cc:555/tv/19鞋佬回放述
+粤🔊16鞋佬回放,http://rihou.cc:555/tv/16鞋佬回放述
+粤🔊15鞋佬回放,http://rihou.cc:555/tv/15鞋佬回放述
 CCTV-01咪咕,http://42.194.148.122:1234/608807420
 CCTV-02咪咕,http://42.194.148.122:1234/631780532
 CCTV-03咪咕,http://42.194.148.122:1234/624878271
@@ -247,7 +253,6 @@ astro欢喜双语,https://o11.163189.xyz/stream/live/hxt/
 广东珠江欣赏,http://rihou.cc:555/tv/[At|]广东珠江
 广东珠江欣赏,http://rihou.cc:555/tv/[Cx]广东珠江
 广东珠江欣赏,http://rihou.cc:555/tv/[AtI]广东珠江
-⬇️特闽新闻⬇️,http://rihou.cc:555/tv/v
 有线新闻欣赏,http://rihou.cc:555/tv/[Mt]有线新闻
 有线新闻欣赏,http://rihou.cc:555/tv/[Hv]有线新闻
 有线新闻欣赏,http://rihou.cc:555/tv/[FY]有线新闻
@@ -850,7 +855,6 @@ GINX_TV4Gtv,http://nmk.ioapk.com:5050/li-4gtv-4gtv053/index.m3u8?proxy=true
 闽环球大战线,http://nmk.ioapk.com:5050/ofiii206/index.m3u8?proxy=true
 闽少康战情室,http://nmk.ioapk.com:5050/ofiii207/index.m3u8?proxy=true
 闽南国民大会,http://nmk.ioapk.com:5050/ofiii208/index.m3u8?proxy=true
-⬇️赛事抖音网页直播⬇️,http://rihou.cc:555/tv/t
 绝嗲数码抖播,video://https://live.douyin.com/277034086130
 音乐库抖直播,video://http://rihou.cc:555/tv/mu10
 杨凯乔抖直播,video://http://rihou.cc:555/tv/dt
