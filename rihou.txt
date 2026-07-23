@@ -1,4 +1,10 @@
 rihou,#genre#
+⬇️港风女声⬇️,http://rihou.cc:555/tv/t
+港风粤语女一,http://rihou.cc:555/tv/港风粤语女一
+港风粤语女二,http://rihou.cc:555/tv/港风粤语女二
+港风粤语女三,http://rihou.cc:555/tv/港风粤语女三
+港风粤语女四,http://rihou.cc:555/tv/港风粤语女四
+港风粤语女五,http://rihou.cc:555/tv/港风粤语女五
 CCTV-01咪咕,http://42.194.148.122:1234/608807420
 CCTV-02咪咕,http://42.194.148.122:1234/631780532
 CCTV-03咪咕,http://42.194.148.122:1234/624878271
@@ -37,12 +43,6 @@ CGTN-法咪咕,http://42.194.148.122:1234/609006476
 陕西卫视咪咕,http://42.194.148.122:1234/738910838
 兵团卫视咪咕,http://42.194.148.122:1234/956923145
 黑龙江视咪咕,http://42.194.148.122:1234/738906901
-⬇️港风女声⬇️,http://rihou.cc:555/tv/t
-港风粤语女一,http://rihou.cc:555/tv/港风粤语女一
-港风粤语女二,http://rihou.cc:555/tv/港风粤语女二
-港风粤语女三,http://rihou.cc:555/tv/港风粤语女三
-港风粤语女四,http://rihou.cc:555/tv/港风粤语女四
-港风粤语女五,http://rihou.cc:555/tv/港风粤语女五
 Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
 凤凰中文Pdtv,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯Pdtv,http://rihou.cc:555/tv/[Pd]凤凰资讯
@@ -347,8 +347,8 @@ WWE_格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 经典音乐频道,https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 ⬇️全天直播⬇️,video://http://rihou.cc:555/tv/网页库播
 音乐播库抖播,video://http://rihou.cc:555/tv/网页播库
-音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖23
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖23
+音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖24
+音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖24
 翡翠音乐抖播,video://http://rihou.cc:555/tv/网页翡翠
 怀旧音乐抖播,video://http://rihou.cc:555/tv/网页怀音
 怀旧粤语抖播,video://http://rihou.cc:555/tv/网页怀粤
