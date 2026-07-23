@@ -37,6 +37,12 @@ CGTN-法咪咕,http://42.194.148.122:1234/609006476
 陕西卫视咪咕,http://42.194.148.122:1234/738910838
 兵团卫视咪咕,http://42.194.148.122:1234/956923145
 黑龙江视咪咕,http://42.194.148.122:1234/738906901
+⬇️港风女声⬇️,http://rihou.cc:555/tv/t
+港风粤语女一,http://rihou.cc:555/tv/港风粤语女一
+港风粤语女二,http://rihou.cc:555/tv/港风粤语女二
+港风粤语女三,http://rihou.cc:555/tv/港风粤语女三
+港风粤语女四,http://rihou.cc:555/tv/港风粤语女四
+港风粤语女五,http://rihou.cc:555/tv/港风粤语女五
 Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
 凤凰中文Pdtv,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯Pdtv,http://rihou.cc:555/tv/[Pd]凤凰资讯
@@ -691,7 +697,6 @@ GINX_TV4Gtv,http://nmk.ioapk.com:5050/li-4gtv-4gtv053/index.m3u8?proxy=true
 闽环球大战线,http://nmk.ioapk.com:5050/ofiii206/index.m3u8?proxy=true
 闽少康战情室,http://nmk.ioapk.com:5050/ofiii207/index.m3u8?proxy=true
 闽南国民大会,http://nmk.ioapk.com:5050/ofiii208/index.m3u8?proxy=true
-⬇️赛事抖音网页直播⬇️,http://rihou.cc:555/tv/t
 绝嗲数码抖播,video://https://live.douyin.com/277034086130
 音乐库抖直播,video://http://rihou.cc:555/tv/mu10
 杨凯乔抖直播,video://http://rihou.cc:555/tv/dt
