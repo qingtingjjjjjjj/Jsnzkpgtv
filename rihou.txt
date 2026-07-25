@@ -13,9 +13,7 @@ rihou,#genre#
 港风粤语女三,http://rihou.cc:555/tv/港风粤语女三
 港风粤语女四,http://rihou.cc:555/tv/港风粤语女四
 港风粤语女五,http://rihou.cc:555/tv/港风粤语女五
-10:00赣州章贡赣星🆚武汉盛帆黄鹤,http://rihou.cc:555/tv/v
-国🔊25篮评述,http://rihou.cc:555/tv/25女篮咪评述
-国🔊25篮述评,http://rihou.cc:555/tv/25女篮咪述评
+17:00北京师范大学🆚新疆天山,http://rihou.cc:555/tv/v
 国🔊25篮评评,http://rihou.cc:555/tv/25女篮咪评评
 国🔊25篮述述,http://rihou.cc:555/tv/25女篮咪述述
 国🔊25鲁评述,http://rihou.cc:555/tv/25鲁超咪评述
