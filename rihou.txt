@@ -115,6 +115,10 @@ Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
 凤凰中文Pdtv,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯Pdtv,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港Pdtv,http://rihou.cc:555/tv/[Pd]凤凰香港
+Now星影Pdtv,http://rihou.cc:555/tv/[Pd]Now星影
+Now爆谷Pdtv,http://rihou.cc:555/tv/[Pd]Now爆谷
+Now新闻Pdtv,http://rihou.cc:555/tv/[Pd]Now新闻
+中天新闻Pdtv,http://rihou.cc:555/tv/[Pd]中天新闻
 有线新闻Pdtv,http://rihou.cc:555/tv/[Pd]有线新闻
 有线综合Pdtv,http://rihou.cc:555/tv/[Pd]有线综合
 有线亚剧Pdtv,http://rihou.cc:555/tv/[Pd]有线亚剧
