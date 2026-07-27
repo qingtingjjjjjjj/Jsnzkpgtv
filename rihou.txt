@@ -13,7 +13,11 @@ rihou,#genre#
 港风粤语女三,http://rihou.cc:555/tv/港风粤语女三
 港风粤语女四,http://rihou.cc:555/tv/港风粤语女四
 港风粤语女五,http://rihou.cc:555/tv/港风粤语女五
-10:00陕西榆林天泽🆚武汉盛帆黄鹤,http://rihou.cc:555/tv/v
+19:30中国男篮🆚喀麦隆男篮,http://rihou.cc:555/tv/v
+国🔊27篮评述,http://rihou.cc:555/tv/27男篮咪评述
+国🔊27篮述评,http://rihou.cc:555/tv/27男篮咪述评
+国🔊27篮评评,http://rihou.cc:555/tv/27男篮咪评评
+粤🔊27篮述述,http://rihou.cc:555/tv/27男篮咪述述
 国🔊28篮评述,http://rihou.cc:555/tv/28女篮咪评述
 国🔊28篮述评,http://rihou.cc:555/tv/28女篮咪述评
 国🔊28篮评评,http://rihou.cc:555/tv/28女篮咪评评
