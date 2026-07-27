@@ -26,6 +26,7 @@ Now爆谷Pdtv,http://rihou.cc:555/tv/[Pd]Now爆谷
 美亚电影Pdtv,http://rihou.cc:555/tv/[Pd]美亚电影
 天映电影Pdtv,http://rihou.cc:555/tv/[Pd]天映电影
 有线综合Pdtv,http://rihou.cc:555/tv/[Pd]有线综合
+有线国际Pdtv,http://rihou.cc:555/tv/[Pd]有线国际
 无线翡翠Pdtv,http://rihou.cc:555/tv/[Pd]无线翡翠
 无线翡翠4Ktv,http://rihou.cc:555/tv/[Pd]无线翡4K
 无线华丽Pdtv,http://rihou.cc:555/tv/[Pd]无线华丽
