@@ -54,14 +54,7 @@ CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
 CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
 astroaodPdtv,http://rihou.cc:555/tv/[Pd]astroaod
-17:45车路士🆚西悉尼流浪者,http://rihou.cc:555/tv/v
-国🔊小斐评述,http://rihou.cc:555/tv/28热身小斐述
-国🔊28热评述,http://rihou.cc:555/tv/28热身咪评述
-国🔊28热述评,http://rihou.cc:555/tv/28热身咪述评
-国🔊28热评评,http://rihou.cc:555/tv/28热身咪评评
-粤🔊28热述述,http://rihou.cc:555/tv/28热身咪述述
-国🔊28篮评评,http://rihou.cc:555/tv/28女篮咪评评
-国🔊28篮述述,http://rihou.cc:555/tv/28女篮咪述述
+10:00新疆天山🆚合肥文旅,http://rihou.cc:555/tv/v
 国🔊29篮评述,http://rihou.cc:555/tv/29女篮咪评述
 国🔊29篮述评,http://rihou.cc:555/tv/29女篮咪述评
 国🔊29篮评评,http://rihou.cc:555/tv/29女篮咪评评
@@ -411,8 +404,8 @@ WWE_格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 经典音乐频道,https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 ⬇️全天直播⬇️,video://http://rihou.cc:555/tv/网页库播
 音乐播库抖播,video://http://rihou.cc:555/tv/网页播库
-音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖28
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖28
+音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖29
+音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖29
 翡翠音乐抖播,video://http://rihou.cc:555/tv/网页翡翠
 怀旧音乐抖播,video://http://rihou.cc:555/tv/网页怀音
 怀旧粤语抖播,video://http://rihou.cc:555/tv/网页怀粤
