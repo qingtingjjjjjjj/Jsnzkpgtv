@@ -54,8 +54,7 @@ CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
 CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
 astroaodPdtv,http://rihou.cc:555/tv/[Pd]astroaod
-19:30中国U18男篮🆚韩国东国大学,http://rihou.cc:555/tv/v
-国🔊03青评述,http://rihou.cc:555/tv/03国青咪评述
+19:00乌兰察布队🆚包头队,http://rihou.cc:555/tv/v
 国🔊04蒙评述,http://rihou.cc:555/tv/04蒙超咪评述
 国🔊04青评述,http://rihou.cc:555/tv/04国青咪评述
 国🔊05热评述,http://rihou.cc:555/tv/05热身咪评述
@@ -400,8 +399,8 @@ WWE_格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 经典音乐频道,https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 ⬇️全天直播⬇️,video://http://rihou.cc:555/tv/网页库播
 音乐播库抖播,video://http://rihou.cc:555/tv/网页播库
-音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖03
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖03
+音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖04
+音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖04
 翡翠音乐抖播,video://http://rihou.cc:555/tv/网页翡翠
 怀旧音乐抖播,video://http://rihou.cc:555/tv/网页怀音
 怀旧粤语抖播,video://http://rihou.cc:555/tv/网页怀粤
