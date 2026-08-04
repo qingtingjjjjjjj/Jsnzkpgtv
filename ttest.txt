@@ -4642,6 +4642,8 @@ CCTV16,http://121.57.88.206:898/hls/16/index.m3u8
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+ViuTV,https://cdn.qd.je/163189.php?id=viu
+ViuTV six,https://cdn.qd.je/163189.php?id=viu6
 翡翠台,http://119.32.12.73:2905/rtp/225.1.101.45:7523
 TVB DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
 香港卫视频道,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -4654,7 +4656,7 @@ CGTN2,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN3,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 CGTN4,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-中天新闻,rtmp://47.238.2.198/live/888ztxw
+中天新闻,http://iactive-clink.com:8081/live/888ztxw.m3u8
 中天新闻,http://111.0.115.129:8081/live/222ztxw.m3u8
 中視,http://211.72.174.95:8113/0.ts
 華視,http://211.72.174.95:8114/0.ts
@@ -4684,16 +4686,10 @@ Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 凤凰中文,http://c.123.rr.kg/163189/fhzw
 凤凰资讯,http://c.123.rr.kg/163189/fhzx
 凤凰香港,http://c.123.rr.kg/163189/fhhk
+台视新聞,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 翡翠台,http://c.123.rr.kg/163189/fct
 无线新闻,http://c.123.rr.kg/163189/wxxw
-翡翠台,http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
-明珠台,http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1$广东移动
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8
-凤凰中文,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1$广东移动
-凤凰中文,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$广东移动
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$郑州酒店
-凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$郑州酒店
 翡翠台4K,https://cdn.qd.je/163189.php?id=fct4k
 娱乐新闻,https://cdn.qd.je/163189.php?id=ylxw
 TVB1,https://cdn.qd.je/163189.php?id=tvb1
@@ -4702,8 +4698,6 @@ TVBj1,https://cdn.qd.je/163189.php?id=j1
 TVB Plus,https://cdn.qd.je/163189.php?id=tvbp
 华丽翡翠
 华丽翡翠(新加坡)
-ViuTV,https://cdn.qd.je/163189.php?id=viu
-ViuTV six,https://cdn.qd.je/163189.php?id=viu6
 NOW新闻,https://cdn.qd.je/163189.php?id=now
 hoy77,https://cdn11.163189.xyz/163189/hoy77
 hoy78,https://cdn11.163189.xyz/163189/hoy78
@@ -4739,7 +4733,6 @@ RTHK32,https://cdn.qd.je/163189.php?id=rthk32
 中天新闻,http://safe.shanghairta.com:8081/live/555ztxw.m3u8
 中天新闻,http://hsjky.com.cn:8081/live/111ztxw.m3u8
 民視新聞,http://211.72.174.95:8117/0.ts
-台视新聞,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 原視,https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
 東森新聞,http://211.72.174.95:8138/0.ts
 民視第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
@@ -4808,7 +4801,6 @@ CHC影迷,http://live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E=1&U=1&A=
 CHC家庭,http://live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 中文频道,http://live2.rxip.sc96655.com/live/test1_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 资讯频道,http://live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 CCTV1,http://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=10bd15e08aa7c4de538b767ae2618279a6213e3e
 CCTV2,http://live2.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=10bd15e08aa7c4de538b767ae2618279a6213e3e
 CCTV3,http://live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=10bd15e08aa7c4de538b767ae2618279a6213e3e
