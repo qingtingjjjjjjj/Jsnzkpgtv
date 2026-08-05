@@ -54,8 +54,11 @@ CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
 CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
 astroaodPdtv,http://rihou.cc:555/tv/[Pd]astroaod
-19:00曼城🆚K联赛全明星,http://rihou.cc:555/tv/v
+19:00AC米兰🆚国际米兰,http://rihou.cc:555/tv/v
+粤🔊锐探旁述,http://rihou.cc:555/tv/05友谊锐探述
+国🔊团哥评述,http://rihou.cc:555/tv/05友谊团哥述
 国🔊05热评述,http://rihou.cc:555/tv/05热身咪评述
+粤🔊锐探'旁述,http://rihou.cc:555/tv/05热身锐探述
 国🔊05热述评,http://rihou.cc:555/tv/05热身咪述评
 CCTV-01咪咕,http://101.200.164.241:7788/608807420
 CCTV-02咪咕,http://101.200.164.241:7788/631780532
