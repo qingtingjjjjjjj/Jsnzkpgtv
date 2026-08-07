@@ -54,11 +54,7 @@ CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
 CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
 astroaodPdtv,http://rihou.cc:555/tv/[Pd]astroaod
-19:30中国女篮🆚尼日利亚女篮,http://rihou.cc:555/tv/v
-国🔊07篮评述,http://rihou.cc:555/tv/07女篮咪评述
-国🔊07中评述,http://rihou.cc:555/tv/07中超咪评述
-国🔊07湘评述,http://rihou.cc:555/tv/07湘超咪评述
-国🔊07热评述,http://rihou.cc:555/tv/07热身咪评述
+10:00嘉峪关队🆚兰州队,http://rihou.cc:555/tv/v
 国🔊08陇评述,http://rihou.cc:555/tv/08陇超咪评述
 国🔊08陇述评,http://rihou.cc:555/tv/08陇超咪述评
 国🔊08鲁评述,http://rihou.cc:555/tv/08鲁超咪评述
@@ -406,8 +402,8 @@ WWE_格斗高,http://plus.newdns.world:8080/OduLarge/UtKalQ6Vc7/7544
 经典音乐频道,https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 ⬇️全天直播⬇️,video://http://rihou.cc:555/tv/网页库播
 音乐播库抖播,video://http://rihou.cc:555/tv/网页播库
-音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖07
-音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖07
+音乐库仓抖播,http://rihou.cc:555/tv/音乐库仓抖08
+音乐仓库抖播,http://rihou.cc:555/tv/音乐仓库抖08
 翡翠音乐抖播,video://http://rihou.cc:555/tv/网页翡翠
 怀旧音乐抖播,video://http://rihou.cc:555/tv/网页怀音
 怀旧粤语抖播,video://http://rihou.cc:555/tv/网页怀粤
