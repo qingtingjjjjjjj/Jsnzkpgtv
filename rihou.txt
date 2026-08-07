@@ -86,6 +86,7 @@ astroaodPdtv,http://rihou.cc:555/tv/[Pd]astroaod
 国🔊08苏评述,http://rihou.cc:555/tv/08苏超咪评述
 国🔊08苏述评,http://rihou.cc:555/tv/08苏超咪述评
 国🔊08苏评评,http://rihou.cc:555/tv/08苏超咪评评
+国🔊08热评述,http://rihou.cc:555/tv/08热身咪评述
 国🔊08疆评述,http://rihou.cc:555/tv/08疆超咪评述
 国🔊09中评述,http://rihou.cc:555/tv/09中超咪评述
 国🔊09中述评,http://rihou.cc:555/tv/09中超咪述评
