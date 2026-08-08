@@ -54,7 +54,10 @@ CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
 CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
 astroaodPdtv,http://rihou.cc:555/tv/[Pd]astroaod
-16:00德州古贝春🆚滨州创新队,http://rihou.cc:555/tv/v
+20:00车路士🆚AC米兰,http://rihou.cc:555/tv/v
+粤🔊小肥旁述,http://rihou.cc:555/tv/08热身小肥述
+国🔊团哥评述,http://rihou.cc:555/tv/08热身团哥述
+国🔊08热评述,http://rihou.cc:555/tv/08热身咪评述
 国🔊08鲁评述,http://rihou.cc:555/tv/08鲁超咪评述
 国🔊08鲁述评,http://rihou.cc:555/tv/08鲁超咪述评
 国🔊08鲁评评,http://rihou.cc:555/tv/08鲁超咪评评
@@ -81,7 +84,6 @@ astroaodPdtv,http://rihou.cc:555/tv/[Pd]astroaod
 国🔊08苏评述,http://rihou.cc:555/tv/08苏超咪评述
 国🔊08苏述评,http://rihou.cc:555/tv/08苏超咪述评
 国🔊08苏评评,http://rihou.cc:555/tv/08苏超咪评评
-国🔊08热评述,http://rihou.cc:555/tv/08热身咪评述
 国🔊08疆评述,http://rihou.cc:555/tv/08疆超咪评述
 国🔊09热评述,http://rihou.cc:555/tv/09热身咪评述
 国🔊09热述评,http://rihou.cc:555/tv/09热身咪述评
