@@ -21,12 +21,7 @@ Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
 有线新闻Pdtv,http://rihou.cc:555/tv/[Pd]有线新闻
 无线新闻Pdtv,http://rihou.cc:555/tv/[Pd]无线新闻
 Now新闻Pdtv,http://rihou.cc:555/tv/[Pd]Now新闻
-Now星影Pdtv,http://rihou.cc:555/tv/[Pd]Now星影
-Now爆谷Pdtv,http://rihou.cc:555/tv/[Pd]Now爆谷
-美亚电影Pdtv,http://rihou.cc:555/tv/[Pd]美亚电影
-天映电影Pdtv,http://rihou.cc:555/tv/[Pd]天映电影
 有线综合Pdtv,http://rihou.cc:555/tv/[Pd]有线综合
-有线国际Pdtv,http://rihou.cc:555/tv/[Pd]有线国际
 无线翡翠Pdtv,http://rihou.cc:555/tv/[Pd]无线翡翠
 无线翡翠4Ktv,http://rihou.cc:555/tv/[Pd]无线翡4K
 无线华丽Pdtv,http://rihou.cc:555/tv/[Pd]无线华丽
@@ -37,6 +32,9 @@ Now爆谷Pdtv,http://rihou.cc:555/tv/[Pd]Now爆谷
 无线星河Pdtv,http://rihou.cc:555/tv/[Pd]无线星河
 无线经典Pdtv,http://rihou.cc:555/tv/[Pd]无线经典
 无线功夫Pdtv,http://rihou.cc:555/tv/[Pd]无线功夫
+无线海外Pdtv,http://rihou.cc:555/tv/[Pd]无线海外
+RTHK-31Pdtv,http://rihou.cc:555/tv/[Pd]RTHK-31
+RTHK-32Pdtv,http://rihou.cc:555/tv/[Pd]RTHK-32
 澳视澳门Pdtv,http://rihou.cc:555/tv/[Pd]澳视澳门
 澳视卫星Pdtv,http://rihou.cc:555/tv/[Pd]澳视卫星
 澳门体育Pdtv,http://rihou.cc:555/tv/[Pd]澳门体育
@@ -54,6 +52,7 @@ CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
 CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
 astroaodPdtv,http://rihou.cc:555/tv/[Pd]astroaod
+Astr欢喜Pdtv,http://rihou.cc:555/tv/[Pd]Astr欢喜
 14:00上海浦发银行🆚北京师范大学,http://rihou.cc:555/tv/v
 国🔊25篮评述,http://rihou.cc:555/tv/25女篮咪评述
 国🔊25篮述评,http://rihou.cc:555/tv/25女篮咪述评
