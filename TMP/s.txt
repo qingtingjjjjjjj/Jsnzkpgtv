@@ -139,7 +139,6 @@ CCTV1,http://kms.yzzdxc.cn:16666/rtp/239.37.0.254:5540$吉林电信
 CCTV1,http://joyznm.i234.me:20000/rtp/239.3.1.129:8008$北京联通
 CCTV1,http://101.wifi98.com:9001/rtp/232.0.0.27:1234$辽宁联通
 CCTV1,http://alist.guangyuan.site:8188/rtp/239.77.0.86:5146$广东电信
-CCTV1,http://zhangkx717.cn:9999/rtp/239.254.96.96:8550$湖北电信
 CCTV1,http://www.liangcl.top:8686/rtp/233.50.201.118:5140$浙江电信
 CCTV1,http://www.sjwyp.com:4022/rtp/239.254.200.45:8008$河北电信
 CCTV1,http://share.xlangnan.cn:10316/rtp/239.254.200.45:8008$河北电信
@@ -190,7 +189,6 @@ CCTV2,http://kms.yzzdxc.cn:16666/rtp/239.37.0.003:5540$吉林电信
 CCTV2,http://joyznm.i234.me:20000/rtp/239.3.1.60:8084$北京联通
 CCTV2,http://101.wifi98.com:9001/rtp/232.0.0.135:1234$辽宁联通
 CCTV2,http://alist.guangyuan.site:8188/rtp/239.77.0.137:5146$广东电信
-CCTV2,http://zhangkx717.cn:9999/rtp/239.69.1.102:10250$湖北电信
 CCTV2,http://www.liangcl.top:8686/rtp/233.50.201.119:5140$浙江电信
 CCTV2,http://www.sjwyp.com:4022/rtp/239.254.200.158:6000$河北电信
 CCTV3,http://thhomes.cn:4000/rtp/239.3.1.172:8001$北京联通
@@ -238,7 +236,6 @@ CCTV3,http://kms.yzzdxc.cn:16666/rtp/239.37.0.231:5540$吉林电信
 CCTV3,http://joyznm.i234.me:20000/rtp/239.3.1.172:8001$北京联通
 CCTV3,http://101.wifi98.com:9001/rtp/232.0.0.170:1234$辽宁联通
 CCTV3,http://alist.guangyuan.site:8188/rtp/239.77.0.169:5146$广东电信
-CCTV3,http://zhangkx717.cn:9999/rtp/239.69.1.122:10370$湖北电信
 CCTV3,http://www.liangcl.top:8686/rtp/233.50.201.196:5140$浙江电信
 CCTV3,http://www.sjwyp.com:4022/rtp/239.254.201.152:7205$河北电信
 CCTV4,http://thhomes.cn:4000/rtp/239.3.1.105:8092$北京联通
@@ -287,7 +284,6 @@ CCTV4,http://a.xiongnas.top:8888/rtp/239.3.1.105:8092$北京联通
 CCTV4,http://kms.yzzdxc.cn:16666/rtp/239.37.0.022:5540$吉林电信
 CCTV4,http://joyznm.i234.me:20000/rtp/239.3.1.105:8092$北京联通
 CCTV4,http://alist.guangyuan.site:8188/rtp/239.77.0.78:5146$广东电信
-CCTV4,http://zhangkx717.cn:9999/rtp/239.69.1.138:10466$湖北电信
 CCTV5,http://thhomes.cn:4000/rtp/239.3.1.173:8001$北京联通
 CCTV5,http://www.yzddy.top:8800/rtp/239.49.8.75:8000$江苏电信
 CCTV5,http://kodbox.guangyuan.site:8188/rtp/239.77.0.170:5146$广东电信
@@ -378,7 +374,6 @@ CCTV5+,http://a.xiongnas.top:8888/rtp/239.3.1.130:8004$北京联通
 CCTV5+,http://kms.yzzdxc.cn:16666/rtp/239.37.0.121:5540$吉林电信
 CCTV5+,http://joyznm.i234.me:20000/rtp/239.3.1.130:8004$北京联通
 CCTV5+,http://alist.guangyuan.site:8188/rtp/239.77.0.87:5146$广东电信
-CCTV5+,http://zhangkx717.cn:9999/rtp/239.254.96.234:9484$湖北电信
 CCTV5+,http://www.liangcl.top:8686/rtp/233.50.201.220:5140$浙江电信
 CCTV5+,http://www.sjwyp.com:4022/rtp/239.254.200.46:8004$河北电信
 CCTV5+,http://share.xlangnan.cn:10316/rtp/239.254.200.46:8004$河北电信
@@ -427,7 +422,6 @@ CCTV6,http://kms.yzzdxc.cn:16666/rtp/239.37.0.233:5540$吉林电信
 CCTV6,http://joyznm.i234.me:20000/rtp/239.3.1.174:8001$北京联通
 CCTV6,http://101.wifi98.com:9001/rtp/232.0.0.172:1234$辽宁联通
 CCTV6,http://alist.guangyuan.site:8188/rtp/239.77.0.171:5146$广东电信
-CCTV6,http://zhangkx717.cn:9999/rtp/239.69.1.124:10382$湖北电信
 CCTV6,http://www.liangcl.top:8686/rtp/233.50.200.109:5140$浙江电信
 CCTV6,http://www.sjwyp.com:4022/rtp/239.254.201.154:7207$河北电信
 CCTV7,http://thhomes.cn:4000/rtp/239.3.1.61:8104$北京联通
@@ -473,7 +467,6 @@ CCTV7,http://a.xiongnas.top:8888/rtp/239.3.1.61:8104$北京联通
 CCTV7,http://joyznm.i234.me:20000/rtp/239.3.1.61:8104$北京联通
 CCTV7,http://101.wifi98.com:9001/rtp/232.0.0.136:1234$辽宁联通
 CCTV7,http://alist.guangyuan.site:8188/rtp/239.77.0.138:5146$广东电信
-CCTV7,http://zhangkx717.cn:9999/rtp/239.69.1.103:10256$湖北电信
 CCTV7,http://www.liangcl.top:8686/rtp/233.50.200.102:5140$浙江电信
 CCTV7,http://www.sjwyp.com:4022/rtp/239.254.200.159:6000$河北电信
 CCTV7,http://share.xlangnan.cn:10316/rtp/239.254.200.159:6000$河北电信
@@ -522,7 +515,6 @@ CCTV8,http://kms.yzzdxc.cn:16666/rtp/239.37.0.234:5540$吉林电信
 CCTV8,http://joyznm.i234.me:20000/rtp/239.3.1.175:8001$北京联通
 CCTV8,http://101.wifi98.com:9001/rtp/232.0.0.173:1234$辽宁联通
 CCTV8,http://alist.guangyuan.site:8188/rtp/239.77.0.172:5146$广东电信
-CCTV8,http://zhangkx717.cn:9999/rtp/239.69.1.125:10388$湖北电信
 CCTV8,http://www.liangcl.top:8686/rtp/233.50.201.116:5140$浙江电信
 CCTV8,http://www.sjwyp.com:4022/rtp/239.254.201.155:7208$河北电信
 CCTV9,http://thhomes.cn:4000/rtp/239.3.1.62:8112$北京联通
@@ -570,7 +562,6 @@ CCTV9,http://kms.yzzdxc.cn:16666/rtp/239.37.0.001:5540$吉林电信
 CCTV9,http://joyznm.i234.me:20000/rtp/239.3.1.62:8112$北京联通
 CCTV9,http://101.wifi98.com:9001/rtp/232.0.0.137:1234$辽宁联通
 CCTV9,http://alist.guangyuan.site:8188/rtp/239.77.0.135:5146$广东电信
-CCTV9,http://zhangkx717.cn:9999/rtp/239.69.1.104:10262$湖北电信
 CCTV9,http://www.liangcl.top:8686/rtp/233.50.200.23:5140$浙江电信
 CCTV9,http://www.sjwyp.com:4022/rtp/239.254.200.59:8112$河北电信
 CCTV10,http://thhomes.cn:4000/rtp/239.3.1.63:8116$北京联通
@@ -618,7 +609,6 @@ CCTV10,http://kms.yzzdxc.cn:16666/rtp/239.37.0.007:5540$吉林电信
 CCTV10,http://joyznm.i234.me:20000/rtp/239.3.1.63:8116$北京联通
 CCTV10,http://101.wifi98.com:9001/rtp/232.0.0.138:1234$辽宁联通
 CCTV10,http://alist.guangyuan.site:8188/rtp/239.77.0.134:5146$广东电信
-CCTV10,http://zhangkx717.cn:9999/rtp/239.69.1.105:10268$湖北电信
 CCTV10,http://www.liangcl.top:8686/rtp/233.50.200.22:5140$浙江电信
 CCTV10,http://www.sjwyp.com:4022/rtp/239.254.200.160:6000$河北电信
 CCTV11,http://thhomes.cn:4000/rtp/239.3.1.152:8120$北京联通
@@ -664,7 +654,6 @@ CCTV11,http://a.xiongnas.top:8888/rtp/239.3.1.152:8120$北京联通
 CCTV11,http://joyznm.i234.me:20000/rtp/239.3.1.152:8120$北京联通
 CCTV11,http://101.wifi98.com:9001/rtp/232.0.0.178:1234$辽宁联通
 CCTV11,http://alist.guangyuan.site:8188/rtp/239.77.1.108:5146$广东电信
-CCTV11,http://zhangkx717.cn:9999/rtp/239.69.1.154:10560$湖北电信
 CCTV11,http://www.liangcl.top:8686/rtp/233.50.200.132:5140$浙江电信
 CCTV11,http://www.sjwyp.com:4022/rtp/239.254.201.123:8120$河北电信
 CCTV11,http://share.xlangnan.cn:10316/rtp/239.254.201.123:8120$河北电信
@@ -713,7 +702,6 @@ CCTV12,http://kms.yzzdxc.cn:16666/rtp/239.37.0.006:5540$吉林电信
 CCTV12,http://joyznm.i234.me:20000/rtp/239.3.1.64:8124$北京联通
 CCTV12,http://101.wifi98.com:9001/rtp/232.0.0.139:1234$辽宁联通
 CCTV12,http://alist.guangyuan.site:8188/rtp/239.77.0.136:5146$广东电信
-CCTV12,http://zhangkx717.cn:9999/rtp/239.69.1.106:10274$湖北电信
 CCTV12,http://www.liangcl.top:8686/rtp/233.50.200.21:5140$浙江电信
 CCTV12,http://www.sjwyp.com:4022/rtp/239.254.200.161:6000$河北电信
 CCTV13,http://thhomes.cn:4000/rtp/239.3.1.124:8128$北京联通
@@ -761,7 +749,6 @@ CCTV13,http://kms.yzzdxc.cn:16666/rtp/239.37.0.028:5540$吉林电信
 CCTV13,http://joyznm.i234.me:20000/rtp/239.3.1.124:8128$北京联通
 CCTV13,http://101.wifi98.com:9001/rtp/232.0.0.15:1234$辽宁联通
 CCTV13,http://alist.guangyuan.site:8188/rtp/239.253.43.196:5146$广东电信
-CCTV13,http://zhangkx717.cn:9999/rtp/239.254.96.161:9040$湖北电信
 CCTV13,http://www.liangcl.top:8686/rtp/233.50.200.97:5140$浙江电信
 CCTV13,http://www.sjwyp.com:4022/rtp/239.254.200.9:8264$河北电信
 CCTV14,http://thhomes.cn:4000/rtp/239.3.1.65:8132$北京联通
@@ -809,7 +796,6 @@ CCTV14,http://kms.yzzdxc.cn:16666/rtp/239.37.0.005:5540$吉林电信
 CCTV14,http://joyznm.i234.me:20000/rtp/239.3.1.65:8132$北京联通
 CCTV14,http://101.wifi98.com:9001/rtp/232.0.0.140:1234$辽宁联通
 CCTV14,http://alist.guangyuan.site:8188/rtp/239.77.0.133:5146$广东电信
-CCTV14,http://zhangkx717.cn:9999/rtp/239.69.1.107:10280$湖北电信
 CCTV14,http://www.liangcl.top:8686/rtp/233.50.200.103:5140$浙江电信
 CCTV14,http://www.sjwyp.com:4022/rtp/239.254.200.162:6000$河北电信
 CCTV15,http://thhomes.cn:4000/rtp/239.3.1.153:8136$北京联通
@@ -855,7 +841,6 @@ CCTV15,http://a.xiongnas.top:8888/rtp/239.3.1.153:8136$北京联通
 CCTV15,http://joyznm.i234.me:20000/rtp/239.3.1.153:8136$北京联通
 CCTV15,http://101.wifi98.com:9001/rtp/232.0.0.179:1234$辽宁联通
 CCTV15,http://alist.guangyuan.site:8188/rtp/239.77.1.239:5146$广东电信
-CCTV15,http://zhangkx717.cn:9999/rtp/239.69.1.155:10566$湖北电信
 CCTV15,http://www.liangcl.top:8686/rtp/233.50.200.133:5140$浙江电信
 CCTV15,http://www.sjwyp.com:4022/rtp/239.254.201.124:8136$河北电信
 CCTV15,http://share.xlangnan.cn:10316/rtp/239.254.201.124:8136$河北电信
@@ -948,7 +933,6 @@ CCTV17,http://kms.yzzdxc.cn:16666/rtp/239.37.0.002:5540$吉林电信
 CCTV17,http://joyznm.i234.me:20000/rtp/239.3.1.151:8144$北京联通
 CCTV17,http://101.wifi98.com:9001/rtp/232.0.0.230:1234$辽宁联通
 CCTV17,http://alist.guangyuan.site:8188/rtp/239.77.0.198:5146$广东电信
-CCTV17,http://zhangkx717.cn:9999/rtp/239.69.1.152:10548$湖北电信
 CCTV17,http://www.liangcl.top:8686/rtp/233.50.200.113:5140$浙江电信
 CCTV17,http://www.sjwyp.com:4022/rtp/239.254.201.120:8144$河北电信
 CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
@@ -997,7 +981,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 北京卫视,http://joyznm.i234.me:20000/rtp/239.3.1.241:8000$北京联通
 北京卫视,http://101.wifi98.com:9001/rtp/232.0.0.117:1234$辽宁联通
 北京卫视,http://alist.guangyuan.site:8188/rtp/239.77.0.91:5146$广东电信
-北京卫视,http://zhangkx717.cn:9999/rtp/239.254.96.141:8920$湖北电信
 北京卫视,http://www.liangcl.top:8686/rtp/233.50.201.107:5140$浙江电信
 北京卫视,http://www.sjwyp.com:4022/rtp/239.254.200.47:8024$河北电信
 浙江卫视,http://thhomes.cn:4000/rtp/239.3.1.137:8036$北京联通
@@ -1045,7 +1028,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 浙江卫视,http://joyznm.i234.me:20000/rtp/239.3.1.137:8036$北京联通
 浙江卫视,http://101.wifi98.com:9001/rtp/232.0.0.123:1234$辽宁联通
 浙江卫视,http://alist.guangyuan.site:8188/rtp/239.77.0.89:5146$广东电信
-浙江卫视,http://zhangkx717.cn:9999/rtp/239.254.96.143:8932$湖北电信
 浙江卫视,http://www.liangcl.top:8686/rtp/233.50.201.100:5140$浙江电信
 浙江卫视,http://www.sjwyp.com:4022/rtp/239.254.200.53:8036$河北电信
 东方卫视,http://thhomes.cn:4000/rtp/239.3.1.136:8032$北京联通
@@ -1092,7 +1074,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 东方卫视,http://kms.yzzdxc.cn:16666/rtp/239.37.0.048:5540$吉林电信
 东方卫视,http://joyznm.i234.me:20000/rtp/239.3.1.136:8032$北京联通
 东方卫视,http://alist.guangyuan.site:8188/rtp/239.77.1.218:5146$广东电信
-东方卫视,http://zhangkx717.cn:9999/rtp/239.254.96.142:8926$湖北电信
 东方卫视,http://www.liangcl.top:8686/rtp/233.50.201.125:5140$浙江电信
 东方卫视,http://www.sjwyp.com:4022/rtp/239.254.200.52:8032$河北电信
 东方卫视,http://share.xlangnan.cn:10316/rtp/239.254.200.52:8032$河北电信
@@ -1187,7 +1168,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 江苏卫视,http://joyznm.i234.me:20000/rtp/239.3.1.135:8028$北京联通
 江苏卫视,http://101.wifi98.com:9001/rtp/232.0.0.116:1234$辽宁联通
 江苏卫视,http://alist.guangyuan.site:8188/rtp/239.77.1.18:5146$广东电信
-江苏卫视,http://zhangkx717.cn:9999/rtp/239.254.96.144:8938$湖北电信
 江苏卫视,http://www.liangcl.top:8686/rtp/233.50.201.106:5140$浙江电信
 江苏卫视,http://www.sjwyp.com:4022/rtp/239.254.200.51:8028$河北电信
 深圳卫视,http://thhomes.cn:4000/rtp/239.3.1.134:8020$北京联通
@@ -1235,7 +1215,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 深圳卫视,http://joyznm.i234.me:20000/rtp/239.3.1.134:8020$北京联通
 深圳卫视,http://101.wifi98.com:9001/rtp/232.0.0.110:1234$辽宁联通
 深圳卫视,http://alist.guangyuan.site:8188/rtp/239.77.0.92:5146$广东电信
-深圳卫视,http://zhangkx717.cn:9999/rtp/239.254.96.137:8896$湖北电信
 深圳卫视,http://www.liangcl.top:8686/rtp/233.50.201.101:5140$浙江电信
 深圳卫视,http://www.sjwyp.com:4022/rtp/239.254.200.50:8020$河北电信
 广东卫视,http://thhomes.cn:4000/rtp/239.3.1.142:8048$北京联通
@@ -1283,7 +1262,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 广东卫视,http://joyznm.i234.me:20000/rtp/239.3.1.142:8048$北京联通
 广东卫视,http://101.wifi98.com:9001/rtp/232.0.0.130:1234$辽宁联通
 广东卫视,http://alist.guangyuan.site:8188/rtp/239.77.0.84:5146$广东电信
-广东卫视,http://zhangkx717.cn:9999/rtp/239.254.96.140:8914$湖北电信
 广东卫视,http://www.liangcl.top:8686/rtp/233.50.201.102:5140$浙江电信
 广东卫视,http://www.sjwyp.com:4022/rtp/239.254.200.56:8048$河北电信
 广西卫视,http://thhomes.cn:4000/rtp/239.3.1.39:8300$北京联通
@@ -1328,7 +1306,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 广西卫视,http://joyznm.i234.me:20000/rtp/239.3.1.39:8300$北京联通
 广西卫视,http://101.wifi98.com:9001/rtp/232.0.0.76:1234$辽宁联通
 广西卫视,http://alist.guangyuan.site:8188/rtp/239.77.0.139:5146$广东电信
-广西卫视,http://zhangkx717.cn:9999/rtp/239.69.1.191:10788$湖北电信
 广西卫视,http://www.liangcl.top:8686/rtp/233.50.200.136:5140$浙江电信
 广西卫视,http://www.sjwyp.com:4022/rtp/239.254.200.80:8300$河北电信
 广西卫视,http://share.xlangnan.cn:10316/rtp/239.254.200.80:8300$河北电信
@@ -1377,7 +1354,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 东南卫视,http://kms.yzzdxc.cn:16666/rtp/239.37.0.042:5540$吉林电信
 东南卫视,http://joyznm.i234.me:20000/rtp/239.3.1.156:8148$北京联通
 东南卫视,http://alist.guangyuan.site:8188/rtp/239.77.0.146:5146$广东电信
-东南卫视,http://zhangkx717.cn:9999/rtp/239.69.1.108:10286$湖北电信
 东南卫视,http://www.liangcl.top:8686/rtp/233.50.201.146:5140$浙江电信
 东南卫视,http://www.sjwyp.com:4022/rtp/239.254.201.13:6291$河北电信
 东南卫视,http://share.xlangnan.cn:10316/rtp/239.254.201.13:6291$河北电信
@@ -1428,7 +1404,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 海南卫视,http://joyznm.i234.me:20000/rtp/239.3.1.45:8304$北京联通
 海南卫视,http://101.wifi98.com:9001/rtp/232.0.0.26:1234$辽宁联通
 海南卫视,http://alist.guangyuan.site:8188/rtp/239.253.43.35:5146$广东电信
-海南卫视,http://zhangkx717.cn:9999/rtp/239.69.1.151:10542$湖北电信
 海南卫视,http://www.liangcl.top:8686/rtp/233.50.200.165:5140$浙江电信
 海南卫视,http://www.liangcl.top:8686/rtp/233.50.200.62:5140$浙江电信
 海南卫视,http://www.liangcl.top:8686/rtp/233.50.201.55:5140$浙江电信
@@ -1477,7 +1452,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 河北卫视,http://joyznm.i234.me:20000/rtp/239.3.1.148:8072$北京联通
 河北卫视,http://101.wifi98.com:9001/rtp/232.0.0.49:1234$辽宁联通
 河北卫视,http://alist.guangyuan.site:8188/rtp/239.77.1.214:5146$广东电信
-河北卫视,http://zhangkx717.cn:9999/rtp/239.254.96.113:9616$湖北电信
 河北卫视,http://www.liangcl.top:8686/rtp/233.50.201.140:5140$浙江电信
 河北卫视,http://www.sjwyp.com:4022/rtp/239.254.200.174:6000$河北电信
 河南卫视,http://thhomes.cn:4000/rtp/239.3.1.50:8184$北京联通
@@ -1572,7 +1546,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 湖北卫视,http://joyznm.i234.me:20000/rtp/239.3.1.138:8044$北京联通
 湖北卫视,http://101.wifi98.com:9001/rtp/232.0.0.124:1234$辽宁联通
 湖北卫视,http://alist.guangyuan.site:8188/rtp/239.77.0.95:5146$广东电信
-湖北卫视,http://zhangkx717.cn:9999/rtp/239.254.96.115:8664$湖北电信
 湖北卫视,http://www.liangcl.top:8686/rtp/233.50.201.114:5140$浙江电信
 湖北卫视,http://www.sjwyp.com:4022/rtp/239.254.200.164:6000$河北电信
 江西卫视,http://thhomes.cn:4000/rtp/239.3.1.123:8164$北京联通
@@ -1620,7 +1593,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 江西卫视,http://joyznm.i234.me:20000/rtp/239.3.1.123:8164$北京联通
 江西卫视,http://101.wifi98.com:9001/rtp/232.0.0.82:1234$辽宁联通
 江西卫视,http://alist.guangyuan.site:8188/rtp/239.77.1.219:5146$广东电信
-江西卫视,http://zhangkx717.cn:9999/rtp/239.69.1.126:10394$湖北电信
 江西卫视,http://www.liangcl.top:8686/rtp/233.50.201.145:5140$浙江电信
 江西卫视,http://www.sjwyp.com:4022/rtp/239.254.201.12:6290$河北电信
 四川卫视,http://thhomes.cn:4000/rtp/239.3.1.29:8288$北京联通
@@ -1669,7 +1641,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 四川卫视,http://joyznm.i234.me:20000/rtp/239.3.1.29:8288$北京联通
 四川卫视,http://101.wifi98.com:9001/rtp/232.0.0.185:1234$辽宁联通
 四川卫视,http://alist.guangyuan.site:8188/rtp/239.77.0.159:5146$广东电信
-四川卫视,http://zhangkx717.cn:9999/rtp/239.69.1.169:10650$湖北电信
 四川卫视,http://www.liangcl.top:8686/rtp/233.50.201.139:5140$浙江电信
 重庆卫视,http://thhomes.cn:4000/rtp/239.3.1.122:8160$北京联通
 重庆卫视,http://www.yzddy.top:8800/rtp/239.49.8.57:9830$江苏电信
@@ -1716,7 +1687,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 重庆卫视,http://joyznm.i234.me:20000/rtp/239.3.1.122:8160$北京联通
 重庆卫视,http://101.wifi98.com:9001/rtp/232.0.0.186:1234$辽宁联通
 重庆卫视,http://alist.guangyuan.site:8188/rtp/239.77.0.182:5146$广东电信
-重庆卫视,http://zhangkx717.cn:9999/rtp/239.69.1.149:10530$湖北电信
 重庆卫视,http://www.liangcl.top:8686/rtp/233.50.201.143:5140$浙江电信
 重庆卫视,http://www.sjwyp.com:4022/rtp/239.254.200.203:6323$河北电信
 贵州卫视,http://thhomes.cn:4000/rtp/239.3.1.149:8076$北京联通
@@ -1764,7 +1734,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 贵州卫视,http://joyznm.i234.me:20000/rtp/239.3.1.149:8076$北京联通
 贵州卫视,http://101.wifi98.com:9001/rtp/232.0.0.181:1234$辽宁联通
 贵州卫视,http://alist.guangyuan.site:8188/rtp/239.77.1.221:5146$广东电信
-贵州卫视,http://zhangkx717.cn:9999/rtp/239.69.1.150:10536$湖北电信
 贵州卫视,http://www.liangcl.top:8686/rtp/233.50.201.142:5140$浙江电信
 贵州卫视,http://www.sjwyp.com:4022/rtp/239.254.201.20:6315$河北电信
 云南卫视,hp/239.76.254.60:9000$湖南电信
@@ -1862,7 +1831,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 天津卫视,http://joyznm.i234.me:20000/rtp/239.3.1.141:1234$北京联通
 天津卫视,http://101.wifi98.com:9001/rtp/232.0.0.125:1234$辽宁联通
 天津卫视,http://alist.guangyuan.site:8188/rtp/239.77.0.131:5146$广东电信
-天津卫视,http://zhangkx717.cn:9999/rtp/239.69.1.68:10048$湖北电信
 天津卫视,http://www.liangcl.top:8686/rtp/233.50.201.104:5140$浙江电信
 天津卫视,http://www.sjwyp.com:4022/rtp/239.254.200.54:1234$河北电信
 安徽卫视,http://thhomes.cn:4000/rtp/239.3.1.211:8064$北京联通
@@ -1911,7 +1879,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 安徽卫视,http://joyznm.i234.me:20000/rtp/239.3.1.211:8064$北京联通
 安徽卫视,http://101.wifi98.com:9001/rtp/232.0.0.141:1234$辽宁联通
 安徽卫视,http://alist.guangyuan.site:8188/rtp/239.77.0.183:5146$广东电信
-安徽卫视,http://zhangkx717.cn:9999/rtp/239.69.1.70:10060$湖北电信
 安徽卫视,http://www.liangcl.top:8686/rtp/233.50.201.113:5140$浙江电信
 山东卫视,http://thhomes.cn:4000/rtp/239.3.1.209:8052$北京联通
 山东卫视,http://www.yzddy.top:8800/rtp/239.49.8.7:9306$江苏电信
@@ -1957,7 +1924,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 山东卫视,http://joyznm.i234.me:20000/rtp/239.3.1.209:8052$北京联通
 山东卫视,http://101.wifi98.com:9001/rtp/232.0.0.131:1234$辽宁联通
 山东卫视,http://alist.guangyuan.site:8188/rtp/239.77.0.94:5146$广东电信
-山东卫视,http://zhangkx717.cn:9999/rtp/239.69.1.69:10054$湖北电信
 山东卫视,http://www.liangcl.top:8686/rtp/233.50.201.105:5140$浙江电信
 山东卫视,http://www.sjwyp.com:4022/rtp/239.254.200.55:8052$河北电信
 山东卫视,http://share.xlangnan.cn:10316/rtp/239.254.200.55:8052$河北电信
@@ -2006,7 +1972,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 辽宁卫视,http://joyznm.i234.me:20000/rtp/239.3.1.210:8056$北京联通
 辽宁卫视,http://101.wifi98.com:9001/rtp/232.0.0.126:1234$辽宁联通
 辽宁卫视,http://alist.guangyuan.site:8188/rtp/239.77.1.103:5146$广东电信
-辽宁卫视,http://zhangkx717.cn:9999/rtp/239.69.1.71:10066$湖北电信
 辽宁卫视,http://www.liangcl.top:8686/rtp/233.50.201.141:5140$浙江电信
 辽宁卫视,http://www.sjwyp.com:4022/rtp/239.254.200.57:8056$河北电信
 黑龙江卫视,http://thhomes.cn:4000/rtp/239.3.1.133:8016$北京联通
@@ -2054,7 +2019,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 黑龙江卫视,http://joyznm.i234.me:20000/rtp/239.3.1.133:8016$北京联通
 黑龙江卫视,http://101.wifi98.com:9001/rtp/232.0.0.95:1234$辽宁联通
 黑龙江卫视,http://alist.guangyuan.site:8188/rtp/239.77.0.93:5146$广东电信
-黑龙江卫视,http://zhangkx717.cn:9999/rtp/239.254.96.138:8902$湖北电信
 黑龙江卫视,http://www.liangcl.top:8686/rtp/233.50.201.115:5140$浙江电信
 黑龙江卫视,http://www.sjwyp.com:4022/rtp/239.254.200.49:8016$河北电信
 吉林卫视,http://thhomes.cn:4000/rtp/239.3.1.240:8172$北京联通
@@ -2101,7 +2065,6 @@ CCTV17,http://share.xlangnan.cn:10316/rtp/239.254.201.120:8144$河北电信
 吉林卫视,http://joyznm.i234.me:20000/rtp/239.3.1.240:8172$北京联通
 吉林卫视,http://101.wifi98.com:9001/rtp/232.0.0.180:1234$辽宁联通
 吉林卫视,http://alist.guangyuan.site:8188/rtp/239.77.1.111:5146$广东电信
-吉林卫视,http://zhangkx717.cn:9999/rtp/239.69.1.212:10914$湖北电信
 吉林卫视,http://www.liangcl.top:8686/rtp/233.50.200.164:5140$浙江电信
 吉林卫视,http://www.sjwyp.com:4022/rtp/239.254.201.15:6339$河北电信
 吉林卫视,http://share.xlangnan.cn:10316/rtp/239.254.201.15:6339$河北电信
@@ -2715,7 +2678,6 @@ CHC动作电影,http://www.liyajun.top:7088/rtp/239.253.92.134:6117$河北联通
 CHC动作电影,http://woc.iiiya.cn:18888/rtp/239.61.3.16:9616$福建电信
 CHC动作电影,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.242:11094$湖北电信
 CHC动作电影,http://kms.yzzdxc.cn:16666/rtp/239.37.0.186:5540$吉林电信
-CHC动作电影,http://zhangkx717.cn:9999/rtp/239.69.1.242:11094$湖北电信
 CHC动作电影,http://www.sjwyp.com:4022/rtp/239.254.200.196:7168$河北电信
 CHC动作电影,http://share.xlangnan.cn:10316/rtp/239.254.200.196:7168$河北电信
 CHC动作电影,http://www.zlizi.cn:4023/rtp/239.76.252.243:9000$湖南电信
@@ -2762,7 +2724,6 @@ CHC家庭影院,http://nas.yzzdxc.cn:16666/rtp/239.37.0.188:5540$吉林电信
 CHC家庭影院,http://www.liyajun.top:7088/rtp/239.253.92.139:6115$河北联通
 CHC家庭影院,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.243:11100$湖北电信
 CHC家庭影院,http://kms.yzzdxc.cn:16666/rtp/239.37.0.188:5540$吉林电信
-CHC家庭影院,http://zhangkx717.cn:9999/rtp/239.69.1.243:11100$湖北电信
 CHC家庭影院,http://www.sjwyp.com:4022/rtp/239.254.200.194:7167$河北电信
 CHC家庭影院,http://share.xlangnan.cn:10316/rtp/239.254.200.194:7167$河北电信
 CHC家庭影院,http://www.zlizi.cn:4023/rtp/239.76.245.241:1234$湖南电信
@@ -2810,7 +2771,6 @@ CHC影迷电影,http://nas.yzzdxc.cn:16666/rtp/239.37.0.187:5540$吉林电信
 CHC影迷电影,http://www.liyajun.top:7088/rtp/239.253.92.112:6116$河北联通
 CHC影迷电影,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.241:11088$湖北电信
 CHC影迷电影,http://kms.yzzdxc.cn:16666/rtp/239.37.0.187:5540$吉林电信
-CHC影迷电影,http://zhangkx717.cn:9999/rtp/239.69.1.241:11088$湖北电信
 CHC影迷电影,http://www.sjwyp.com:4022/rtp/239.254.200.195:7166$河北电信
 CHC影迷电影,http://share.xlangnan.cn:10316/rtp/239.254.200.195:7166$河北电信
 CHC影迷电影,http://www.zlizi.cn:4023/rtp/239.76.245.242:1234$湖南电信
@@ -3082,7 +3042,6 @@ CHC影迷电影,http://144.255.16.170:6688/rtp/239.21.2.127:5002$山东电信
 第一剧场,http://kms.yzzdxc.cn:16666/rtp/239.37.0.078:5540$吉林电信
 第一剧场,http://101.wifi98.com:9001/rtp/232.0.0.29:1234$辽宁联通
 第一剧场,http://alist.guangyuan.site:8188/rtp/239.253.43.15:5146$广东电信
-第一剧场,http://zhangkx717.cn:9999/rtp/239.69.1.74:10084$湖北电信
 第一剧场,http://www.sjwyp.com:4022/rtp/239.254.201.218:7258$河北电信
 第一剧场,http://share.xlangnan.cn:10316/rtp/239.254.201.218:7258$河北电信
 第一剧场,http://www.zlizi.cn:4023/rtp/239.76.254.49:9000$湖南电信
@@ -3227,7 +3186,6 @@ CHC影迷电影,http://144.255.16.170:6688/rtp/239.21.2.127:5002$山东电信
 兵器科技,http://kms.yzzdxc.cn:16666/rtp/239.37.0.084:5540$吉林电信
 兵器科技,http://101.wifi98.com:9001/rtp/232.0.0.58:1234$辽宁联通
 兵器科技,http://alist.guangyuan.site:8188/rtp/239.253.43.18:5146$广东电信
-兵器科技,http://zhangkx717.cn:9999/rtp/239.69.1.79:10114$湖北电信
 兵器科技,http://www.sjwyp.com:4022/rtp/239.254.201.225:7249$河北电信
 兵器科技,http://share.xlangnan.cn:10316/rtp/239.254.201.225:7249$河北电信
 兵器科技,http://www.zlizi.cn:4023/rtp/239.76.254.59:9000$湖南电信
@@ -3325,7 +3283,6 @@ CHC影迷电影,http://144.255.16.170:6688/rtp/239.21.2.127:5002$山东电信
 风云足球,http://kms.yzzdxc.cn:16666/rtp/239.37.0.080:5540$吉林电信
 风云足球,http://101.wifi98.com:9001/rtp/232.0.0.52:1234$辽宁联通
 风云足球,http://alist.guangyuan.site:8188/rtp/239.253.43.14:5146$广东电信
-风云足球,http://zhangkx717.cn:9999/rtp/239.69.1.81:10126$湖北电信
 风云足球,http://www.sjwyp.com:4022/rtp/239.254.201.222:7251$河北电信
 风云足球,http://share.xlangnan.cn:10316/rtp/239.254.201.222:7251$河北电信
 风云足球,http://www.zlizi.cn:4023/rtp/239.76.254.52:9000$湖南电信
@@ -3423,7 +3380,6 @@ CHC影迷电影,http://144.255.16.170:6688/rtp/239.21.2.127:5002$山东电信
 世界地理,http://kms.yzzdxc.cn:16666/rtp/239.37.0.079:5540$吉林电信
 世界地理,http://101.wifi98.com:9001/rtp/232.0.0.63:1234$辽宁联通
 世界地理,http://alist.guangyuan.site:8188/rtp/239.253.43.7:5146$广东电信
-世界地理,http://zhangkx717.cn:9999/rtp/239.69.1.91:10186$湖北电信
 世界地理,http://www.sjwyp.com:4022/rtp/239.254.201.226:7254$河北电信
 世界地理,http://share.xlangnan.cn:10316/rtp/239.254.201.226:7254$河北电信
 世界地理,http://www.zlizi.cn:4023/rtp/239.76.254.57:9000$湖南电信
@@ -3471,7 +3427,6 @@ CHC影迷电影,http://144.255.16.170:6688/rtp/239.21.2.127:5002$山东电信
 高尔夫网球,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.83:10138$湖北电信
 高尔夫网球,http://kms.yzzdxc.cn:16666/rtp/239.37.0.230:5540$吉林电信
 高尔夫网球,http://alist.guangyuan.site:8188/rtp/239.253.43.22:5146$广东电信
-高尔夫网球,http://zhangkx717.cn:9999/rtp/239.69.1.83:10138$湖北电信
 高尔夫网球,http://www.sjwyp.com:4022/rtp/239.254.201.223:7252$河北电信
 高尔夫网球,http://share.xlangnan.cn:10316/rtp/239.254.201.223:7252$河北电信
 高尔夫网球,http://www.zlizi.cn:4023/rtp/239.76.254.62:9000$湖南电信
@@ -3643,7 +3598,6 @@ CHC影迷电影,http://144.255.16.170:6688/rtp/239.21.2.127:5002$山东电信
 金鹰纪实,http://joyznm.i234.me:20000/rtp/239.3.1.58:8156$北京联通
 金鹰纪实,http://101.wifi98.com:9001/rtp/232.0.0.163:1234$辽宁联通
 金鹰纪实,http://alist.guangyuan.site:8188/rtp/239.77.0.160:5146$广东电信
-金鹰纪实,http://zhangkx717.cn:9999/rtp/239.69.1.109:10292$湖北电信
 金鹰纪实,http://www.sjwyp.com:4022/rtp/239.254.200.189:6293$河北电信
 金鹰纪实,http://share.xlangnan.cn:10316/rtp/239.254.200.189:6293$河北电信
 金鹰纪实,http://www.zlizi.cn:4023/rtp/239.76.253.110:9000$湖南电信
@@ -4524,6 +4478,7 @@ iHOT爱旅行,http://182.135.0.195:888/rtp/239.94.1.137:5140$四川电信
 凤凰中文台,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
 凤凰资讯台,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 凤凰香港台,https://cdn.qd.je/163189/fhhk
+凤凰美州台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=156408
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港国际卫视,http://player4.juyun.tv/camera/158562106.m3u8
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
@@ -4533,19 +4488,40 @@ iHOT爱旅行,http://182.135.0.195:888/rtp/239.94.1.137:5140$四川电信
 华丽翡翠台,https://cdn6.cc.cd/163189/hlfct
 翡翠集剧台,https://cdn.qd.je/163189/tvbd
 明珠台,https://cdn.qd.je/163189/mzt
+黄金華剧台,https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
+黄金華剧台,https://10.fast.hidns.vip/163189/hjhjt/
+黄金華剧台,http://iptv.4666888.xyz/iptv2A.php?id=34
+黄金華剧台国,https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
+黄金翡翠台,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
+美亚电影台粤,https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
+美亚电影台国,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
+千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
 影迷数位电影台,https://cdn12.178.indevs.in/163189/ymswdyt
 天映频道,https://cdn.qd.je/163189/typd
 天映频道,https://cdn3.indevs.in/stream/live/typd/
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
+创世电视,http://iptv.4666888.xyz/iptv2A.php?id=20
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+RTHK31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 RTHK31,https://cdn.qd.je/163189/rthk31
+RTHK32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
 RTHK32,https://cdn.qd.je/163189/rthk32
 NOW新闻台,https://cdn.qd.je/163189/now
+NOW新闻台,http://rihou.cc:555/tv/[Hk]Now新闻
+NOW爆谷台,http://124.244.129.167:7007/0.ts
+NOW爆谷台,http://qingyi.7766.org:7007/0.ts
+新时代电视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=90350
+新时代电视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=90351
+新时代电视2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=90352
+华夏电视台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156422
+长城精品,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156409
+WOWTV,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1423381
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28
 TVB新闻台,https://cdn6.cc.cd/163189/wxxw
 TVB无线新闻台,https://cdn6.cc.cd/163189/wxxwt
 TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
+TVBPLUS,http://live.p2pcy.xyz:18000/flv/hls/5456r4gree564gd31fg.flv
 TVBPLUS,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVB星河,https://cdn6.cc.cd/163189/tvbxh
 千禧经典台,https://cdn.qd.je/163189/tvbc
@@ -4554,21 +4530,35 @@ TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVBJ1,https://cdn6.cc.cd/163189/j1
 TVB1,https://cdn6.cc.cd/163189/tvb1
 TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+TVBe,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=153398
+TVBe,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD:41:1E&stream=1495602
+TVBDRAMA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=153400
 TVBDRAMA,http://iptv.4666888.xyz/iptv2A.php?id=33
-TVB奖门人,http://iptv.4666888.xyz/iptv2A.php?id=31
+MYTV,http://iptv.4666888.xyz/iptv2A.php?id=31
+MYTV1,http://iptv.4666888.xyz/iptv2A.php?id=34
+MYTV3,http://iptv.4666888.xyz/iptv2A.php?id=22
 TVB翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=31
-黄金华剧台,http://iptv.4666888.xyz/iptv2A.php?id=34
-千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
+TVB影剧,http://iptv.4666888.xyz/iptv2A.php?id=63
+HOY76,http://play.wenxiang.cn/live/02267bba92f0f4b8291abefa0560664f.flv
+HOY77,http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
+HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 HOY77,https://cdn.qd.je/163189/hoy
 HOY78,https://cdn.qd.je/163189/hoy78
+影迷纪实台,http://iptv.4666888.xyz/iptv2A.php?id=54
+霹雳台湾台,http://iptv.4666888.xyz/iptv2A.php?id=59
+综艺大赢家,http://iptv.4666888.xyz/iptv2A.php?id=65
 中旺电视,http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
 中牟生活,http://zmgd.zyrnet.com:8888/hls/20/index.m3u8
+中视,http://220.135.64.124:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
 中视,rtmp://f13h.mine.nu/sat/tv091
 中视新闻台,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784702901150
 中视经典台,http://220.135.241.47:8321/0.ts
 中视菁采台,http://220.135.241.47:8322/0.ts
 原住民电视台,http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8?q=1784702901150
 原住民电视台,http://220.135.241.47:8303/0.ts
+全球财经,http://220.135.64.124:5050/4gtv-live060/index.m3u8?proxy=true
+亚洲旅游,http://220.135.64.124:5050/of-4gtv-4gtv076/index.m3u8?proxy=true
+中天新闻台,http://rihou.cc:555/tv/[Hv]中天新聞
 中天新闻台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视,http://211.72.174.95:8115/0.ts
@@ -4586,33 +4576,60 @@ HOY78,https://cdn.qd.je/163189/hoy78
 台视,rtmp://f13h.mine.nu/sat/tv071
 台视,http://211.72.174.95:8112/0.ts
 台视财经,http://220.135.241.47:8315/0.ts
+台视综合,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156392
+台视新闻台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156398
+YOYO,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156403
 华视,rtmp://f13h.mine.nu/sat/tv111
 华视,http://220.135.241.47:8317/0.ts
 华视,http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1784702901150
 华视新闻台,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784702901150
 华视新闻资讯,http://220.135.241.47:8319/0.ts
 华视教育文化,http://220.135.241.47:8318/0.ts
+华艺中文台,http://iptv.4666888.xyz/iptv2A.php?id=37
+ROCK,http://iptv.4666888.xyz/iptv2A.php?id=50
 公视,http://211.72.174.95:8116/0.ts
 公视戏剧台,https://cdn12.178.indevs.in/163189/gsxj
 公视戏剧台,http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1784702901150
 公视台语台,http://220.135.241.47:8306/0.ts
 小公视,http://220.135.241.47:8312/0.ts
 三立综合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784702901150
+三立NOWS,http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
 三立NOWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
+三立国际,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156390
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 客家电视台,http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1784702901150
+东森卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156394
+东森新闻台,http://rihou.cc:555/tv/[Hk]东森新闻
 东森新闻台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784702901150
+东森财经台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156396
 东森财经新闻台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1784702901150
+东森综合,http://iptv.4666888.xyz/iptv2A.php?id=58
 东森电影台,http://iptv.4666888.xyz/iptv2A.php?id=48
 东森中国台,http://38.64.72.148/hls/modn/list/2003/chunklist1.m3u8
 东森超视,http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
+东森超视美州台,http://38.64.72.148/hls/modn/list/2013/playlist.m3u8
+东森美州HD,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156397
+东森美州HD,http://38.64.72.148/hls/modn/list/2016/playlist.m3u8
 东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 东森AMERICA,http://38.64.72.148:80/hls/modn/list/2015/playlist.m3u8
+东森戏剧台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156395
+TVBSHD,http://rihou.cc:555/tv/[Hv]tvbS闽南
+TVBSASIA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156402
+TVBS亚洲台,"http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS新闻台,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新闻台,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1784702901150
 TVBS精采台,http://iptv.4666888.xyz/iptv2A.php?id=47
 TVBS精采台,http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1784702901150
 TVBS欢乐台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1784702901150
+汉天卫视,http://38.64.72.148/hls/modn/list/4025/playlist.m3u8
+美国城市卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156401
+美国城市卫视,http://38.64.72.148/hls/modn/list/4028/playlist.m3u8
+ELta旅游,http://220.135.64.124:5050/4gtv-live120/index.m3u8?proxy=true
+车迷频道,http://220.135.64.124:5050/4gtv-live201/index.m3u8?proxy=true
+罪案侦查,http://220.135.64.124:5050/4gtv-live027/index.m3u8?proxy=true
+NICK动漫,http://220.135.64.124:5050/4gtv-live032/index.m3u8?proxy=true
+NICK少儿,http://220.135.64.124:5050/4gtv-live105/index.m3u8?proxy=true
+LUXETV,http://220.135.64.124:5050/4gtv-live121/index.m3u8?proxy=true
 FGM,http://iptv.4666888.xyz/iptv2A.php?id=54
 华藏卫视,http://61.216.67.119:1935/HZTV/HZTV/playlist.m3u8
 台湾霹雳台,http://iptv.4666888.xyz/iptv2A.php?id=38
@@ -4648,11 +4665,21 @@ AMC电影台,http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1784702901150
 龙华洋片台,http://iptv.4666888.xyz/iptv2A.php?id=60
 龙华卡通台,https://cdn.qd.je/163189/lhkt
 迪克儿童台,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMO亲子台,http://220.135.64.124:5050/4gtv-live107/index.m3u8?proxy=true
 MOMO亲子台,http://iptv.4666888.xyz/iptv2A.php?id=49
-ROCK,http://iptv.4666888.xyz/iptv2A.php?id=50
+ROCK电影,http://220.135.64.124:5050/4gtv-live138/index.m3u8?proxy=true
+ROCK电影,http://iptv.4666888.xyz/iptv2A.php?id=50
+ROCK娱乐,http://220.135.64.124:5050/4gtv-live080/index.m3u8?proxy=true
+HITS,http://220.135.64.124:5050/4gtv-live620/index.m3u8?proxy=true
+历史频道,http://220.135.64.124:5050/4gtv-live026/index.m3u8?proxy=true
+国家地理,http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
 汉天卫视,http://38.64.72.148/hls/modn/list/4025/chunklist1.m3u8
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
+环宇新闻台,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8?proxy=true
+环宇新闻台,http://rihou.cc:555/tv/[Hk]寰宇新闻
 环宇新闻台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784702901150
+环宇财经台,http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8?proxy=true
+环宇台湾台,http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
 环宇台湾台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1784702901150
 环宇新闻台,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 星卫娱乐,https://live.ottiptv.cc/huya/880203
@@ -4661,10 +4688,93 @@ ROCK,http://iptv.4666888.xyz/iptv2A.php?id=50
 Cinemaworld,https://cdn.qd.je/163189/cinemaworld
 MEC,https://cdn.qd.je/163189/mce
 Cmusic,https://cdn.qd.je/163189/cmusic
+梦工厂动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
 梦工厂动画,https://cdn.qd.je/163189/dreamworks
+DUCK TV儿童台,http://iptv.4666888.xyz/iptv2A.php?id=39
 精选电影台,https://cdn.qd.je/163189/jddyt
 精选动漫台,https://cdn.qd.je/163189/jxdmt
 TAIWAN+,https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
+東森新聞 ETTV News,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldxQjY1ejR6WjZsak50OFFaZTh2Wm5CalJCbDZQRnxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD05ZGE5MTI4MSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+東森財經新聞 ETTV Business,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldxQjY1ekxRVWVLdlVJY1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD0wMTY1MmEzNyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+中天新聞 CTI News,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXalduQnZVSWU2TmR1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPTdjOTIzMmQ0JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+非凡新聞台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXald6ZXZVenlWUkllNk5uYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPTJmYWY0MDk5JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+台視新聞台 TTV News,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak5TQjZSSWU2Tm5iNjU2NGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9ZmVmM2ViOTgmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+Elta体育4台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldxODZDc2xwQ2Y3NjVkQlpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD00MjI0YzEzNiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+民視新聞台 FTV News,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXald6QjZSSWU2YWZCUVVlTlFVaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9MGUwNzI5OWMmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+博斯高球2 HD,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldKdXBXZWNWVzJSZGVmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9OGQ0MTZjYjkmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+博斯网球 HD,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldKdXBXZUJ6VUk0dlpuYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPTI3ZTZhN2MzJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+寰宇新聞台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXald5YVFVSUk2WnlnVmM2ZVZlZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPTRiNzYyNTU5JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+中視新聞台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak5nR1ZXSWNwV3lnVlJxTnBhZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPWRhYzM5ZDViJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+探索频道,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldTZ3BXbnU2UnE3eFVuR1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD1mZjU0ZTNlZCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+TVBS 歡樂台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak5TV1Fjbkc2VXM0VkNxYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPWNhY2U3MGZkJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+TVBS HD,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak5TV1FjZHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9YWNmMzc4MDYmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+中天娱乐 CTI Entertaiment,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXalduQnZVcTQ2aWZPVkNzSVZDZWw2aUlNZE4waHxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD1kOTU5OWVkZSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+中天综合 CTI Metro,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXalduQnZaZ0dWV0ljdkMwdXBDMnl4VTJncE5fNFZQbmFBbXxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD05NjRkYWI4NCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+中天亚洲台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXalduQnZVc2x2VXNiNjU2NGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9NGVhZmYzMDImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+台视 TTV HD,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak5TQjZlZkJRVWVOUVVodXBDMnl4VTJncE5fNFZQbmFBbXxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD0xZjgyMWJkNyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+台视综合台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak5TQjZjZ0dWV0ljdkMwdXBDMnl4VTJncE5fNFZQbmFBbXxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD03YmM1MmQ5NCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+中视 HD,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak5nR1ZXSWNwV3lndkNTYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPTdkNWY1NTkxJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+民视 HD,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXald6QjZSeTlaTlN5dlo2eVZyZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPTRmYjAwYjUwJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+民视台湾台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXald6QjZjU3l2WjZ5VmVmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9ZTJjY2I5YTMmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+华视 CTS HD,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXalduQnBXeTlaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9M2Q1YmM2OTEmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+公视 CTV,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXalduQjZMVGhaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9ZGIyMTVmMWEmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+八大第一 GTV First,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldKeXpDc1J2WkpsNmlmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9NDhlY2Q3NTAmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+八大综合 GTV Metro,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldKeXpDc292Q2Y0eld5ZWpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9NjhmNTMxZjEmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+八大戏剧 GTV Drama,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldKeXpDczlwUnNNUTNmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9ZTc2YTEyN2ImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+八大娱乐 GTV Entertainment,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldKeXpDc2VWY1NlcGNTeXZVaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9ODdkMGMxNGEmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+HBO_HD,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXald5clZXeTlaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9MDE0MTc2NWMmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+HBO_HITS,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXald5clZXeWc2NW5iNjU2NGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9YTY3MzEyYzkmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+HBO Signature Taiwan,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXald5clZObmd6V0l5NjVxN3pxZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPWVkZjBkZjU4JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+Hollywood Movies,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXald5dVZDMkk2V2Z1ekNhdTZSZWVwYWZCNldodXBDMnl4VTJncE5fNFZQbmFBbXxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD04MmVkMGI3ZCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+三立台湾 Sanli Taiwan,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak5ueVZSMmc2Q3NnNldzNGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9MjY0M2Q5YmUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+三立戏剧台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak5ueVZSMmd4Q2VLNnFmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9YTIyZmM3NzUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+三立综合 Sanli Metro,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak5ueVZSMmd4Unl1VlI2R3ozZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPWY5M2Y0Y2RhJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+三立都会台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak5ueVZSMmd6Q2ZhdjVxZ1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD01OGE4NDIwYyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+东森综合 ETTV Metro,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldxQjY1em92Q2Y0eld5ZWpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9ZmUxZTY0ZTcmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+东森戏剧 ETTV Drama,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldxQjY1ejlwUnNNUTNmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9OTY1ZGY1YzkmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+公视2,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXalduQjZMSmI2NTY0ak50OFFaZTh2Wm5CalJCbDZQRnxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD1mOGNjMGQwNyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+大爱1台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldTeVFVZWI2NTY0ak50OFFaZTh2Wm5CalJCbDZQRnxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD1hMTY0MTQ1YSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+龙华戏剧 Lunghua Drama,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXalcyYVZSNkc2VXNodlVnYVpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD1jMmJhMjg3NSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+龙华经典台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXalcyYVZSNkc2VXNLdlVJY3pDZXlWZWZCNldodXBDMnl4VTJncE5fNFZQbmFBbXxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD1jODE2YjhjNyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+龙华偶像,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXalcyYVZSNkc2VXNnekNmOFpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD1mZjM3M2I4NCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+AXN Taiwan,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldzaFZlZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPTg0YWFlYzEwJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+靖天国际台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldnZ1ZSNkJ2VXM0dlVJQlZzZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPWI5MTFmOGVlJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+CINEMAX,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXalduZ1ZScU1RWnliNjU2NGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9YTY1NWQ3ZjImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+年代新闻,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldJZ1FVSTlRVWU0elo2bFpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD0yMWE5NTUyYyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+纬来日本台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak56Z3pDcXVWQ3M0ekNneXBDczRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPTAxOWJjNzUzJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+纬来电影台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak56Z3pDcXVWQ3M0ekNhdTZSZWVqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPWFlNWMzMDcxJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+纬来体育台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak56Z3pDcXVWQ3M0ejVuT1ZOSkJqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPTkwODRmMjQ4JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+纬来综合台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak56Z3pDcXVWQ3M0ejVndVZSNkd6M2ZPVkNzSVZDZWw2aUlNZE4waHxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD1jM2JjN2M1ZiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+纬来育乐,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak56Z3pDcXVWQ3M0ekNheXhpZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPWRkNmM4Y2U1JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+纬来精彩,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak56Z3pDcXVWQ3M0ejVTV2pOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9OTgxNGE4M2YmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+DW (Deutsch),https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldTTlpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD1hZjcwMTU3OSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+好消息 2,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXalc2dVZXXzdaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9MjIwMDdjNGUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+大爱2台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldTeVFVOTdaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9YjUwODgwODQmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+亚洲美食,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldzUlFhZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPTA3MjJjNDc5JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+亚洲旅游 TLC Asia,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak5TOFFhZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPWRlZWUzNDU0JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+东森电影 ETTV Movie,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldxQjY1ek1WTnpnejNmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9MGEzNWM4YTImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+阿里郎 Arirang,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldzN3ZaSnlWUjZiNjU2NGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9NjZhMDg2YmImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+博斯运动 1,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldKdXBXZWxwQ2Y3NkVzYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPWJhZWZjZTM2JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+博斯运动 2,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldKdXBXZWxwQ2Y3NkVKYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPTYxZmEyOGIyJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+东森洋片 ETTV Western,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldxQjY1ek56Wm5CelpKNGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9NTdiOGUyNzMmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+龙华洋片 Lunghua Western,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXalcyYVZSNkc2VXNOelpuQnpaSjRaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9YzQ4ZGFmNTgmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+博斯无限,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldKdXBXZWFWUjJnVlVlQnpVU2I2NTY0ak50OFFaZTh2Wm5CalJCbDZQRnxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD0zZjUyNzYwYyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+MTV Live,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldhQjZSeTlaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9MjVkYWUxZDUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+龙祥时代,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXalcyYVZSNmh2VXM0ek5TZ1ZVcWI2NTY0ak50OFFaZTh2Wm5CalJCbDZQRnxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD0wOWQwYWE3YSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+EYETV 旅游,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldxSXpaU1c2NUp5NlJxOFpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD1kN2Q0ZDRiOSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+靖天卡通台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldnZ1ZSNkJ2VXM0UVdzNzZDZnVWZWZCNldodXBDMnl4VTJncE5fNFZQbmFBbXxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD1iNmY2M2RjYyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+EYETV 戏剧,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldxSXpaU1d4Q2VLNnFmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9ZjA2ZWIzYzcmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+华艺中文台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak42ZXZabkd2VW5HdlVJZXBXcWI2NTY0ak50OFFaZTh2Wm5CalJCbDZQRnxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD1iMTYyNmExYyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+东森幼幼 Yoyo TV,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak5ldXhVZmI2NTY0ak50OFFaZTh2Wm5CalJCbDZQRnxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD1kOGM1MTAyOCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+美亚电影,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldhZXZaZXlWVWZXdlVxYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPWMwMDVmYmI3JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+爱尔达戏剧台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldxODZDczlwUnNNUXFmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9MTg4MTMxMDImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+TVBS News 新聞台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXak5TV1FjbmJWcmZPVkNzSVZDZWw2aUlNZE4waHxjZD02Njc3N2EyOSZjbj0xZTBkNTg0YyZjcD1lODA2ZWJkMyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+Asia Food Network,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXakJzUlE3Zk9WQ3NJVkNlbDZpSU1kTjBofGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPTUyZmZmZTU4JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+Elta体育1台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldxODZDc2xwQ2Y3NkVzYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPTRmYTZkMWRlJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+DAZN 1,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldTeXhSaDJaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9MmIyMzk2NTUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+DAZN 2,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldTeXhSaDdaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9ZGM4YzFlZTUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+Catchplay电影台,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldueTZDbkdwQzJ5eHFmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NjY3NzdhMjkmY249MWUwZDU4NGMmY3A9M2U2NTg0YTcmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=8c88c6ac0d55a30d16f8e6645363ee7e
+动物星球,https://live.catvod.com/?id=L2xyL2RMUU9BRTFXaldzNHZVYXlWNXQ4UVVJZTZzZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTY2Nzc3YTI5JmNuPTFlMGQ1ODRjJmNwPWQzMDBlYjRlJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=8c88c6ac0d55a30d16f8e6645363ee7e
 澳视卫星,https://cdn.qd.je/163189/as
 澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
