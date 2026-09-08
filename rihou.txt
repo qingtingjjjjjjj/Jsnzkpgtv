@@ -13,12 +13,8 @@ rihou,#genre#
 港风粤语女三,http://rihou.cc:555/tv/港风粤语女三
 港风粤语女四,http://rihou.cc:555/tv/港风粤语女四
 港风粤语女五,http://rihou.cc:555/tv/港风粤语女五
-00:30卡利亚里🆚莱切,http://rihou.cc:555/tv/v
-国🔊08意评述,http://rihou.cc:555/tv/08意甲咪评述
-国🔊08意述评,http://rihou.cc:555/tv/08意甲咪述评
-国🔊08西评述,http://rihou.cc:555/tv/08西甲咪评述
-国🔊08西述评,http://rihou.cc:555/tv/08西甲咪述评
-国🔊08篮评述,http://rihou.cc:555/tv/08女篮咪评述
+23:45中国女篮🆚波多黎各女篮,http://rihou.cc:555/tv/v
+国🔊09篮评述,http://rihou.cc:555/tv/09女篮咪评述
 CCTV-01咪咕,http://106.52.165.247:1234/608807420
 CCTV-02咪咕,http://106.52.165.247:1234/631780532
 CCTV-03咪咕,http://106.52.165.247:1234/624878271
