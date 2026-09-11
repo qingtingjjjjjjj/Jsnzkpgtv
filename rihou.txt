@@ -13,6 +13,11 @@ rihou,#genre#
 港风粤语女三,http://rihou.cc:555/tv/港风粤语女三
 港风粤语女四,http://rihou.cc:555/tv/港风粤语女四
 港风粤语女五,http://rihou.cc:555/tv/港风粤语女五
+19:07沈阳🆚长春,http://rihou.cc:555/tv/v
+国🔊11东评述,http://rihou.cc:555/tv/11东北超评述
+国🔊11湘评述,http://rihou.cc:555/tv/11湘超咪评述
+国🔊11湘述评,http://rihou.cc:555/tv/11湘超咪述评
+国🔊12东评述,http://rihou.cc:555/tv/12东北超评述
 CCTV-01咪咕,http://rihou.cc:555/tv/[mg]CCTV-01
 CCTV-02咪咕,http://rihou.cc:555/tv/[mg]CCTV-02
 CCTV-03咪咕,http://rihou.cc:555/tv/[mg]CCTV-03
@@ -51,7 +56,6 @@ CGTN-法咪咕,http://rihou.cc:555/tv/[mg]CGTN-法
 陕西卫视咪咕,http://rihou.cc:555/tv/[mg]陕西卫视
 兵团卫视咪咕,http://rihou.cc:555/tv/[mg]兵团卫视
 黑龙江视咪咕,http://rihou.cc:555/tv/[mg]黑龙江视
-⬇️特闽新闻⬇️,http://rihou.cc:555/tv/v
 有线新闻欣赏,http://rihou.cc:555/tv/[Pd]有线新闻
 无线新闻欣赏,http://rihou.cc:555/tv/[Pd]无线新闻
 Now新闻欣赏,http://rihou.cc:555/tv/[Cx]Now新闻
