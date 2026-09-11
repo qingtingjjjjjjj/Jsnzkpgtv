@@ -1,6 +1,5 @@
 test,#genre#
 404: Not Found
-切换EXO解码,1
 小米YU7,http://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d0nrolvog65uva9acetg&ratio=720p&line=0
 小米SU7 ultra,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cv4jntnog65skq4ct860&ratio=720p&line=0
 朴彩英-APT,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v02f52g10003css23uiljht5d6b6mnq0&ratio=720p&line=0
@@ -212,7 +211,6 @@ F4-决不能失去你,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f
 何润东-我记得我爱过,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cm12qa3c77u3pbdnrr00&ratio=720p&line=0
 张芸京-偏爱,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000csmuo9fog65j08392110&ratio=720p&line=0
 张韶涵-无名的人,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ctari87og65ksgs0rnpg&ratio=720p&line=0
-切换EXO解码,1
 Nevada,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300ff30000but4f2452a13sf6temog&ratio=720p&line=0
 Unstoppable,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ce4av3bc77u7mqoje2kg&ratio=720p&line=0
 once upon a time,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cumt1mfog65krksdg31g&ratio=720p&line=0
