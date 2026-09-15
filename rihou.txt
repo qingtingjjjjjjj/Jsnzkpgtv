@@ -13,12 +13,7 @@ rihou,#genre#
 港风粤语女三,http://rihou.cc:555/tv/港风粤语女三
 港风粤语女四,http://rihou.cc:555/tv/港风粤语女四
 港风粤语女五,http://rihou.cc:555/tv/港风粤语女五
-00:30都灵🆚罗马,http://rihou.cc:555/tv/v
-国🔊15意评述,http://rihou.cc:555/tv/15意甲咪评述
-国🔊15意述评,http://rihou.cc:555/tv/15意甲咪述评
-国🔊15意评评,http://rihou.cc:555/tv/15意甲咪评评
-国🔊15英评述,http://rihou.cc:555/tv/15英超咪评述
-国🔊15西评述,http://rihou.cc:555/tv/15西甲咪评述
+18:00拉查布里府🆚上海海港,http://rihou.cc:555/tv/v
 国🔊15亚评述,http://rihou.cc:555/tv/15亚冠咪评述
 国🔊15亚述评,http://rihou.cc:555/tv/15亚冠咪述评
 国🔊16亚评述,http://rihou.cc:555/tv/16亚冠咪评述
