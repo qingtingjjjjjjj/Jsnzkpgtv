@@ -343,7 +343,7 @@ closer,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c6c60frc7
 1990赌侠,https://play.modujx11.com/20241224/mBSx76B4/index.m3u8
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 翡翠台,http://211.97.63.3:3443/hls/541/index.m3u8
-无线新闻,http://play.wenxiang.cn/live/yifaTV-125.flv
+无线新闻台,rtmp://school.3class.cc/live/yifaTV-125
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
@@ -411,19 +411,6 @@ TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 娱乐新闻,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-需切换EXO解码,1
-翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
-TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
-HOY76,http://play.wenxiang.cn/live/02267bba92f0f4b8291abefa0560664f.flv
-HOY77,http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
-HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
-黄金华剧台,https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
-黄金华剧台粤,https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
-黄金翡翠台,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
-美亚电影台粤,https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
-美亚电影台国,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
-港台电视31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
-港台电视32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
 ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
 Arirang Radio (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 BBS Buddhist Broadcasting (1080p),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
@@ -3277,6 +3264,7 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 卡顿按右换线,https://i.uik.cc/view.php/76bc8f27068f76f69f00a699e5cf73d8.mp4
+翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
 凤凰中文,http://120.237.39.10:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 凤凰资讯,http://120.237.39.10:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 翡翠台,http://120.237.39.10:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
@@ -3305,6 +3293,7 @@ TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
 HOY76,https://cdn11.163189.xyz/163189/hoy76
 HOY77,https://fast.hidns.vip/163189/hoy
 HOY78,https://fast.hidns.vip/163189/hoy78
+无线新闻,http://play.wenxiang.cn/live/yifaTV-125.flv
 中天新闻,http://iactive-clink.com:8081/live/111ztxw.m3u8
 美亚电影,
 爆谷台,h
@@ -3312,8 +3301,11 @@ HOY78,https://fast.hidns.vip/163189/hoy78
 NOW新闻台,https://fast.hidns.vip/163189/now
 RTHK31,https://fast.hidns.vip/163189/rthk31
 RTHK32,https://fast.hidns.vip/163189/rthk32
+TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
 TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 唯心電視,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+港台电视31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
+港台电视32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
 臺視,http://173.208.234.146/live/ttv.m3u8
 臺視綜合,http://173.208.234.146/live/ttvzh.m3u8
 鳳凰中文臺,http://173.208.234.146/live/fhzw.m3u8
