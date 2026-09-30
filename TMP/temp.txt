@@ -2,12 +2,22 @@
 中天新闻,http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=ztxw
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://www.negative.top:50000/udp/233.50.202.36:5140
+凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
 凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
+港澳频道,#genre#
+NOW新闻台,http://cdn.123.rr.kg/163189/now
+澳门莲花,http://cdn6.123.rr.kg/163189/amlh
+澳门综艺,http://cdn6.123.rr.kg/163189/amzy
+澳视卫星,http://cdn6.123.rr.kg/163189/as
+澳视澳门,http://cdn6.123.rr.kg/163189/asam
+澳门体育,http://cdn6.123.rr.kg/163189/amty
 TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
+CH5,http://cdn6.123.rr.kg/163189/ch5
+CH8,http://cdn6.123.rr.kg/163189/ch8
+CHU,http://cdn6.123.rr.kg/163189/chu
 天映频道,https://cdn3.indevs.in/stream/live/typd/
 公視,http://211.72.174.95:8116/0.ts
 民視,http://211.72.174.95:8115/0.ts
@@ -102,7 +112,6 @@ Sony One Dragons' Den,https://5dae1f2dfec54d8f9992b7d2ac0bc627.mediatailor.us-we
 LG 1 Film,https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
 LG 1 Spotlight,https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
 LG 1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-GoUSA TV,https://cc2b7c60df304389ba60c76790d1a82f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_GoUSATV/playlist.m3u8
 Inside Outside,https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
 Showtime Extreme,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts
 Action Movies,https://action-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/8e7f1d8c-5ba7-4dde-9834-b058e17f6bfe/4.m3u8
