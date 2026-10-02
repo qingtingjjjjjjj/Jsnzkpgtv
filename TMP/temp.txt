@@ -4,7 +4,6 @@
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
 凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
-港澳频道,#genre#
 NOW新闻台,http://cdn.123.rr.kg/163189/now
 澳门莲花,http://cdn6.123.rr.kg/163189/amlh
 澳门综艺,http://cdn6.123.rr.kg/163189/amzy
@@ -27,46 +26,7 @@ Astro AOD,https://cdn3.indevs.in/stream/live/aod/
 Astro AEC,https://cdn3.indevs.in/stream/live/aec/
 Astro 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 Astro 欢喜台,https://cdn3.indevs.in/stream/live/hxt/
-央视频道,#genre#
-CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-CGTN纪录,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-地方频道,#genre#
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-看东方4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
-教科影院,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
-民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
-浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
-少儿频道,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
-浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
-之江纪录,http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
-广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0
-南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-苏州娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁文旅,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
-南宁娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
-宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
-宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
-宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
-新闻综合,http://play1-qk.nmtv.cn/live/2316general.m3u8
-经济生活,http://play1-qk.nmtv.cn/live/2326general.m3u8
-少儿频道,http://play1-qk.nmtv.cn/live/2327general.m3u8
-文体娱乐,http://play1-qk.nmtv.cn/live/2319general.m3u8
-农牧频道,http://play1-qk.nmtv.cn/live/2329general.m3u8
-梨园频道,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=1966aa8a0405e1541cff782f56c75447&wsTime=1770400669
-文物宝库,https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=87c5daf4f4c3a09fb4e4cce0843d4a1c&wsTime=1770400669
-武术频道,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=dfcdc24ac8a49ebd886337dc5cdc1568&wsTime=1770400669
-河南曲艺,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=3f9e1d6e5c78cea99a876ce40f13202b&wsTime=1770400669
-绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-上虞综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-国际,#genre#
+国际频道,#genre#
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 GB News,https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
@@ -80,6 +40,13 @@ NEWSMAX,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 NBC News Now,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 One American News,https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
+CGTN Global Biz,https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/index_6.m3u8
+CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+CGTN Documentary,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+CGTN Russian,https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+CGTN Francais,https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+CGTN Espanol,https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+CGTN Arabic,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 Trace Sport Stars,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
@@ -123,3 +90,31 @@ Thrillers,https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649b
 Top Movies,https://top-movies-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/8b530802-f923-43a1-8496-e871276a745f/4.m3u8
 Reality,https://reality-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/228208ef-d17f-4825-a278-eccf505de378/4.m3u8
 Family,https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8
+地方频道,#genre#
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+看东方4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
+教科影院,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
+民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
+浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
+少儿频道,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
+浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
+之江纪录,http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
+广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0
+南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+苏州娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁文旅,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
+南宁娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+新闻综合,http://play1-qk.nmtv.cn/live/2316general.m3u8
+经济生活,http://play1-qk.nmtv.cn/live/2326general.m3u8
+少儿频道,http://play1-qk.nmtv.cn/live/2327general.m3u8
+文体娱乐,http://play1-qk.nmtv.cn/live/2319general.m3u8
+农牧频道,http://play1-qk.nmtv.cn/live/2329general.m3u8
+绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+上虞综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
