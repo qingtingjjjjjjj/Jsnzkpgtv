@@ -8,8 +8,6 @@ NOW新闻台,http://cdn.123.rr.kg/163189/now
 纬来体育,https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
 TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
-明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
-翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 天映频道,https://cdn3.indevs.in/stream/live/typd/
 星影台,http://173.208.234.146/live/nowxy.m3u8
 Astro AOD,https://cdn3.indevs.in/stream/live/aod/
